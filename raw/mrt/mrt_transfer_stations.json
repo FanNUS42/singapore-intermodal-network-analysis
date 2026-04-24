@@ -1,0 +1,566 @@
+{
+  "default_transfer_time_min": 4.4,
+  "count_semantics": {
+    "n_connected_lines": "count of distinct line_names",
+    "n_station_codes": "count of distinct station_codes",
+    "n_service_nos": "count of distinct service_nos"
+  },
+  "stations": [
+    {
+      "physical_station_name": "Bayfront",
+      "primary_station_code": "CE1",
+      "station_codes": [
+        "CE1",
+        "DT16"
+      ],
+      "service_nos": [
+        "CCLe",
+        "DTL"
+      ],
+      "line_names": [
+        "Circle Line Extension",
+        "Downtown Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Bishan",
+      "primary_station_code": "CC15",
+      "station_codes": [
+        "CC15",
+        "NS17"
+      ],
+      "service_nos": [
+        "CCL",
+        "NSL"
+      ],
+      "line_names": [
+        "Circle Line",
+        "North-South Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Botanic Gardens",
+      "primary_station_code": "CC19",
+      "station_codes": [
+        "CC19",
+        "DT9"
+      ],
+      "service_nos": [
+        "CCL",
+        "DTL"
+      ],
+      "line_names": [
+        "Circle Line",
+        "Downtown Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Bugis",
+      "primary_station_code": "DT14",
+      "station_codes": [
+        "DT14",
+        "EW12"
+      ],
+      "service_nos": [
+        "DTL",
+        "EWL"
+      ],
+      "line_names": [
+        "Downtown Line",
+        "East-West Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Buona Vista",
+      "primary_station_code": "CC22",
+      "station_codes": [
+        "CC22",
+        "EW21"
+      ],
+      "service_nos": [
+        "CCL",
+        "EWL"
+      ],
+      "line_names": [
+        "Circle Line",
+        "East-West Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Caldecott",
+      "primary_station_code": "CC17",
+      "station_codes": [
+        "CC17",
+        "TE9"
+      ],
+      "service_nos": [
+        "CCL",
+        "TEL"
+      ],
+      "line_names": [
+        "Circle Line",
+        "Thomson-East Coast Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Chinatown",
+      "primary_station_code": "DT19",
+      "station_codes": [
+        "DT19",
+        "NE4"
+      ],
+      "service_nos": [
+        "DTL",
+        "NEL"
+      ],
+      "line_names": [
+        "Downtown Line",
+        "North East Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "City Hall",
+      "primary_station_code": "EW13",
+      "station_codes": [
+        "EW13",
+        "NS25"
+      ],
+      "service_nos": [
+        "EWL",
+        "NSL"
+      ],
+      "line_names": [
+        "East-West Line",
+        "North-South Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Dhoby Ghaut",
+      "primary_station_code": "CC1",
+      "station_codes": [
+        "CC1",
+        "NE6",
+        "NS24"
+      ],
+      "service_nos": [
+        "CCL",
+        "NEL",
+        "NSL"
+      ],
+      "line_names": [
+        "Circle Line",
+        "North East Line",
+        "North-South Line"
+      ],
+      "n_connected_lines": 3,
+      "n_station_codes": 3,
+      "n_service_nos": 3,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Expo",
+      "primary_station_code": "CG1",
+      "station_codes": [
+        "CG1",
+        "DT35"
+      ],
+      "service_nos": [
+        "CGL",
+        "DTL"
+      ],
+      "line_names": [
+        "Changi Airport Branch Line",
+        "Downtown Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "HarbourFront",
+      "primary_station_code": "CC29",
+      "station_codes": [
+        "CC29",
+        "NE1"
+      ],
+      "service_nos": [
+        "CCL",
+        "NEL"
+      ],
+      "line_names": [
+        "Circle Line",
+        "North East Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Jurong East",
+      "primary_station_code": "EW24",
+      "station_codes": [
+        "EW24",
+        "NS1"
+      ],
+      "service_nos": [
+        "EWL",
+        "NSL"
+      ],
+      "line_names": [
+        "East-West Line",
+        "North-South Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Little India",
+      "primary_station_code": "DT12",
+      "station_codes": [
+        "DT12",
+        "NE7"
+      ],
+      "service_nos": [
+        "DTL",
+        "NEL"
+      ],
+      "line_names": [
+        "Downtown Line",
+        "North East Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "MacPherson",
+      "primary_station_code": "CC10",
+      "station_codes": [
+        "CC10",
+        "DT26"
+      ],
+      "service_nos": [
+        "CCL",
+        "DTL"
+      ],
+      "line_names": [
+        "Circle Line",
+        "Downtown Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Marina Bay",
+      "primary_station_code": "CE2",
+      "station_codes": [
+        "CE2",
+        "NS27",
+        "TE20"
+      ],
+      "service_nos": [
+        "CCLe",
+        "NSL",
+        "TEL"
+      ],
+      "line_names": [
+        "Circle Line Extension",
+        "North-South Line",
+        "Thomson-East Coast Line"
+      ],
+      "n_connected_lines": 3,
+      "n_station_codes": 3,
+      "n_service_nos": 3,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Newton",
+      "primary_station_code": "DT11",
+      "station_codes": [
+        "DT11",
+        "NS21"
+      ],
+      "service_nos": [
+        "DTL",
+        "NSL"
+      ],
+      "line_names": [
+        "Downtown Line",
+        "North-South Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Orchard",
+      "primary_station_code": "NS22",
+      "station_codes": [
+        "NS22",
+        "TE14"
+      ],
+      "service_nos": [
+        "NSL",
+        "TEL"
+      ],
+      "line_names": [
+        "North-South Line",
+        "Thomson-East Coast Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Outram Park",
+      "primary_station_code": "EW16",
+      "station_codes": [
+        "EW16",
+        "NE3",
+        "TE17"
+      ],
+      "service_nos": [
+        "EWL",
+        "NEL",
+        "TEL"
+      ],
+      "line_names": [
+        "East-West Line",
+        "North East Line",
+        "Thomson-East Coast Line"
+      ],
+      "n_connected_lines": 3,
+      "n_station_codes": 3,
+      "n_service_nos": 3,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Paya Lebar",
+      "primary_station_code": "CC9",
+      "station_codes": [
+        "CC9",
+        "EW8"
+      ],
+      "service_nos": [
+        "CCL",
+        "EWL"
+      ],
+      "line_names": [
+        "Circle Line",
+        "East-West Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Promenade",
+      "primary_station_code": "CC4",
+      "station_codes": [
+        "CC4",
+        "DT15"
+      ],
+      "service_nos": [
+        "CCL",
+        "CCLe",
+        "DTL"
+      ],
+      "line_names": [
+        "Circle Line",
+        "Circle Line Extension",
+        "Downtown Line"
+      ],
+      "n_connected_lines": 3,
+      "n_station_codes": 2,
+      "n_service_nos": 3,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Raffles Place",
+      "primary_station_code": "EW14",
+      "station_codes": [
+        "EW14",
+        "NS26"
+      ],
+      "service_nos": [
+        "EWL",
+        "NSL"
+      ],
+      "line_names": [
+        "East-West Line",
+        "North-South Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Serangoon",
+      "primary_station_code": "CC13",
+      "station_codes": [
+        "CC13",
+        "NE12"
+      ],
+      "service_nos": [
+        "CCL",
+        "NEL"
+      ],
+      "line_names": [
+        "Circle Line",
+        "North East Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Stevens",
+      "primary_station_code": "DT10",
+      "station_codes": [
+        "DT10",
+        "TE11"
+      ],
+      "service_nos": [
+        "DTL",
+        "TEL"
+      ],
+      "line_names": [
+        "Downtown Line",
+        "Thomson-East Coast Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Tampines",
+      "primary_station_code": "DT32",
+      "station_codes": [
+        "DT32",
+        "EW2"
+      ],
+      "service_nos": [
+        "DTL",
+        "EWL"
+      ],
+      "line_names": [
+        "Downtown Line",
+        "East-West Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Tanah Merah",
+      "primary_station_code": "EW4",
+      "station_codes": [
+        "EW4"
+      ],
+      "service_nos": [
+        "CGL",
+        "EWL"
+      ],
+      "line_names": [
+        "Changi Airport Branch Line",
+        "East-West Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 1,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    },
+    {
+      "physical_station_name": "Woodlands",
+      "primary_station_code": "NS9",
+      "station_codes": [
+        "NS9",
+        "TE2"
+      ],
+      "service_nos": [
+        "NSL",
+        "TEL"
+      ],
+      "line_names": [
+        "North-South Line",
+        "Thomson-East Coast Line"
+      ],
+      "n_connected_lines": 2,
+      "n_station_codes": 2,
+      "n_service_nos": 2,
+      "transfer_allowed": true,
+      "default_transfer_time_min": 4.4
+    }
+  ]
+}

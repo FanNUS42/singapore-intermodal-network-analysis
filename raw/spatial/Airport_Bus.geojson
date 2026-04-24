@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Airport_Bus",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3414" } },
+"features": [
+{ "type": "Feature", "properties": { "BUS_STOP_N": "95151", "LOC_DESC": "AIRPORT POLICE STN" }, "geometry": { "type": "Point", "coordinates": [ 44529.729899999685585, 36038.384600000455976 ] } },
+{ "type": "Feature", "properties": { "BUS_STOP_N": "95011", "LOC_DESC": "AFT AIRCRAFT FLYOVER" }, "geometry": { "type": "Point", "coordinates": [ 44721.576399999670684, 36478.687999999150634 ] } },
+{ "type": "Feature", "properties": { "BUS_STOP_N": "95019", "LOC_DESC": "AFT CHANGI AIRPORT TER 2" }, "geometry": { "type": "Point", "coordinates": [ 44808.506400000303984, 36557.648499999195337 ] } },
+{ "type": "Feature", "properties": { "BUS_STOP_N": "95109", "LOC_DESC": "CHANGI AIRPORT TER 3" }, "geometry": { "type": "Point", "coordinates": [ 45141.133100000210106, 37567.869000000879169 ] } },
+{ "type": "Feature", "properties": { "BUS_STOP_N": "95129", "LOC_DESC": "CHANGI AIRPORT TER 2" }, "geometry": { "type": "Point", "coordinates": [ 45343.543399999849498, 37457.142799999564886 ] } },
+{ "type": "Feature", "properties": { "BUS_STOP_N": "95029", "LOC_DESC": "CHANGI AIRPORT TER 1" }, "geometry": { "type": "Point", "coordinates": [ 45507.990500000305474, 38152.272199999541044 ] } },
+{ "type": "Feature", "properties": { "BUS_STOP_N": "95209", "LOC_DESC": "CHANGI AIRPORT TER 4" }, "geometry": { "type": "Point", "coordinates": [ 44574.39850000012666, 35676.28070000000298 ] } },
+{ "type": "Feature", "properties": { "BUS_STOP_N": "95159", "LOC_DESC": "NEAR SATS FLIGHT KITCHEN" }, "geometry": { "type": "Point", "coordinates": [ 44540.393000000156462, 35923.921399999409914 ] } }
+]
+}

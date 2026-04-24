@@ -1,0 +1,2068 @@
+{
+  "CCL_1": {
+    "route_id": "CCL_1",
+    "service_no": "CCL",
+    "direction": 1,
+    "operator": "SMRT",
+    "category": "MRT",
+    "line_name": "Circle Line",
+    "origin_code": "CC1",
+    "destination_code": "CC29",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 28,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "CC1",
+        "Dhoby Ghaut"
+      ],
+      [
+        2,
+        "CC2",
+        "Bras Basah"
+      ],
+      [
+        3,
+        "CC3",
+        "Esplanade"
+      ],
+      [
+        4,
+        "CC4",
+        "Promenade"
+      ],
+      [
+        5,
+        "CC5",
+        "Nicoll Highway"
+      ],
+      [
+        6,
+        "CC6",
+        "Stadium"
+      ],
+      [
+        7,
+        "CC7",
+        "Mountbatten"
+      ],
+      [
+        8,
+        "CC8",
+        "Dakota"
+      ],
+      [
+        9,
+        "CC9",
+        "Paya Lebar"
+      ],
+      [
+        10,
+        "CC10",
+        "MacPherson"
+      ],
+      [
+        11,
+        "CC11",
+        "Tai Seng"
+      ],
+      [
+        12,
+        "CC12",
+        "Bartley"
+      ],
+      [
+        13,
+        "CC13",
+        "Serangoon"
+      ],
+      [
+        14,
+        "CC14",
+        "Lorong Chuan"
+      ],
+      [
+        15,
+        "CC15",
+        "Bishan"
+      ],
+      [
+        16,
+        "CC16",
+        "Marymount"
+      ],
+      [
+        17,
+        "CC17",
+        "Caldecott"
+      ],
+      [
+        18,
+        "CC19",
+        "Botanic Gardens"
+      ],
+      [
+        19,
+        "CC20",
+        "Farrer Road"
+      ],
+      [
+        20,
+        "CC21",
+        "Holland Village"
+      ],
+      [
+        21,
+        "CC22",
+        "Buona Vista"
+      ],
+      [
+        22,
+        "CC23",
+        "one-north"
+      ],
+      [
+        23,
+        "CC24",
+        "Kent Ridge"
+      ],
+      [
+        24,
+        "CC25",
+        "Haw Par Villa"
+      ],
+      [
+        25,
+        "CC26",
+        "Pasir Panjang"
+      ],
+      [
+        26,
+        "CC27",
+        "Labrador Park"
+      ],
+      [
+        27,
+        "CC28",
+        "Telok Blangah"
+      ],
+      [
+        28,
+        "CC29",
+        "HarbourFront"
+      ]
+    ]
+  },
+  "CCL_2": {
+    "route_id": "CCL_2",
+    "service_no": "CCL",
+    "direction": 2,
+    "operator": "SMRT",
+    "category": "MRT",
+    "line_name": "Circle Line",
+    "origin_code": "CC29",
+    "destination_code": "CC1",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 28,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "CC29",
+        "HarbourFront"
+      ],
+      [
+        2,
+        "CC28",
+        "Telok Blangah"
+      ],
+      [
+        3,
+        "CC27",
+        "Labrador Park"
+      ],
+      [
+        4,
+        "CC26",
+        "Pasir Panjang"
+      ],
+      [
+        5,
+        "CC25",
+        "Haw Par Villa"
+      ],
+      [
+        6,
+        "CC24",
+        "Kent Ridge"
+      ],
+      [
+        7,
+        "CC23",
+        "one-north"
+      ],
+      [
+        8,
+        "CC22",
+        "Buona Vista"
+      ],
+      [
+        9,
+        "CC21",
+        "Holland Village"
+      ],
+      [
+        10,
+        "CC20",
+        "Farrer Road"
+      ],
+      [
+        11,
+        "CC19",
+        "Botanic Gardens"
+      ],
+      [
+        12,
+        "CC17",
+        "Caldecott"
+      ],
+      [
+        13,
+        "CC16",
+        "Marymount"
+      ],
+      [
+        14,
+        "CC15",
+        "Bishan"
+      ],
+      [
+        15,
+        "CC14",
+        "Lorong Chuan"
+      ],
+      [
+        16,
+        "CC13",
+        "Serangoon"
+      ],
+      [
+        17,
+        "CC12",
+        "Bartley"
+      ],
+      [
+        18,
+        "CC11",
+        "Tai Seng"
+      ],
+      [
+        19,
+        "CC10",
+        "MacPherson"
+      ],
+      [
+        20,
+        "CC9",
+        "Paya Lebar"
+      ],
+      [
+        21,
+        "CC8",
+        "Dakota"
+      ],
+      [
+        22,
+        "CC7",
+        "Mountbatten"
+      ],
+      [
+        23,
+        "CC6",
+        "Stadium"
+      ],
+      [
+        24,
+        "CC5",
+        "Nicoll Highway"
+      ],
+      [
+        25,
+        "CC4",
+        "Promenade"
+      ],
+      [
+        26,
+        "CC3",
+        "Esplanade"
+      ],
+      [
+        27,
+        "CC2",
+        "Bras Basah"
+      ],
+      [
+        28,
+        "CC1",
+        "Dhoby Ghaut"
+      ]
+    ]
+  },
+  "CCLe_1": {
+    "route_id": "CCLe_1",
+    "service_no": "CCLe",
+    "direction": 1,
+    "operator": "SMRT",
+    "category": "MRT",
+    "line_name": "Circle Line Extension",
+    "origin_code": "CC4",
+    "destination_code": "CE2",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 3,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "CC4",
+        "Promenade"
+      ],
+      [
+        2,
+        "CE1",
+        "Bayfront"
+      ],
+      [
+        3,
+        "CE2",
+        "Marina Bay"
+      ]
+    ]
+  },
+  "CCLe_2": {
+    "route_id": "CCLe_2",
+    "service_no": "CCLe",
+    "direction": 2,
+    "operator": "SMRT",
+    "category": "MRT",
+    "line_name": "Circle Line Extension",
+    "origin_code": "CE2",
+    "destination_code": "CC4",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 3,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "CE2",
+        "Marina Bay"
+      ],
+      [
+        2,
+        "CE1",
+        "Bayfront"
+      ],
+      [
+        3,
+        "CC4",
+        "Promenade"
+      ]
+    ]
+  },
+  "CGL_1": {
+    "route_id": "CGL_1",
+    "service_no": "CGL",
+    "direction": 1,
+    "operator": "SMRT",
+    "category": "MRT",
+    "line_name": "Changi Airport Branch Line",
+    "origin_code": "EW4",
+    "destination_code": "CG2",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 3,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "EW4",
+        "Tanah Merah"
+      ],
+      [
+        2,
+        "CG1",
+        "Expo"
+      ],
+      [
+        3,
+        "CG2",
+        "Changi Airport"
+      ]
+    ]
+  },
+  "CGL_2": {
+    "route_id": "CGL_2",
+    "service_no": "CGL",
+    "direction": 2,
+    "operator": "SMRT",
+    "category": "MRT",
+    "line_name": "Changi Airport Branch Line",
+    "origin_code": "CG2",
+    "destination_code": "EW4",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 3,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "CG2",
+        "Changi Airport"
+      ],
+      [
+        2,
+        "CG1",
+        "Expo"
+      ],
+      [
+        3,
+        "EW4",
+        "Tanah Merah"
+      ]
+    ]
+  },
+  "DTL_1": {
+    "route_id": "DTL_1",
+    "service_no": "DTL",
+    "direction": 1,
+    "operator": "SBST",
+    "category": "MRT",
+    "line_name": "Downtown Line",
+    "origin_code": "DT1",
+    "destination_code": "DT35",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 35,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "DT1",
+        "Bukit Panjang"
+      ],
+      [
+        2,
+        "DT2",
+        "Cashew"
+      ],
+      [
+        3,
+        "DT3",
+        "Hillview"
+      ],
+      [
+        4,
+        "DT4",
+        "Hume"
+      ],
+      [
+        5,
+        "DT5",
+        "Beauty World"
+      ],
+      [
+        6,
+        "DT6",
+        "King Albert Park"
+      ],
+      [
+        7,
+        "DT7",
+        "Sixth Avenue"
+      ],
+      [
+        8,
+        "DT8",
+        "Tan Kah Kee"
+      ],
+      [
+        9,
+        "DT9",
+        "Botanic Gardens"
+      ],
+      [
+        10,
+        "DT10",
+        "Stevens"
+      ],
+      [
+        11,
+        "DT11",
+        "Newton"
+      ],
+      [
+        12,
+        "DT12",
+        "Little India"
+      ],
+      [
+        13,
+        "DT13",
+        "Rochor"
+      ],
+      [
+        14,
+        "DT14",
+        "Bugis"
+      ],
+      [
+        15,
+        "DT15",
+        "Promenade"
+      ],
+      [
+        16,
+        "DT16",
+        "Bayfront"
+      ],
+      [
+        17,
+        "DT17",
+        "Downtown"
+      ],
+      [
+        18,
+        "DT18",
+        "Telok Ayer"
+      ],
+      [
+        19,
+        "DT19",
+        "Chinatown"
+      ],
+      [
+        20,
+        "DT20",
+        "Fort Canning"
+      ],
+      [
+        21,
+        "DT21",
+        "Bencoolen"
+      ],
+      [
+        22,
+        "DT22",
+        "Jalan Besar"
+      ],
+      [
+        23,
+        "DT23",
+        "Bendemeer"
+      ],
+      [
+        24,
+        "DT24",
+        "Geylang Bahru"
+      ],
+      [
+        25,
+        "DT25",
+        "Mattar"
+      ],
+      [
+        26,
+        "DT26",
+        "MacPherson"
+      ],
+      [
+        27,
+        "DT27",
+        "Ubi"
+      ],
+      [
+        28,
+        "DT28",
+        "Kaki Bukit"
+      ],
+      [
+        29,
+        "DT29",
+        "Bedok North"
+      ],
+      [
+        30,
+        "DT30",
+        "Bedok Reservoir"
+      ],
+      [
+        31,
+        "DT31",
+        "Tampines West"
+      ],
+      [
+        32,
+        "DT32",
+        "Tampines"
+      ],
+      [
+        33,
+        "DT33",
+        "Tampines East"
+      ],
+      [
+        34,
+        "DT34",
+        "Upper Changi"
+      ],
+      [
+        35,
+        "DT35",
+        "Expo"
+      ]
+    ]
+  },
+  "DTL_2": {
+    "route_id": "DTL_2",
+    "service_no": "DTL",
+    "direction": 2,
+    "operator": "SBST",
+    "category": "MRT",
+    "line_name": "Downtown Line",
+    "origin_code": "DT35",
+    "destination_code": "DT1",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 35,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "DT35",
+        "Expo"
+      ],
+      [
+        2,
+        "DT34",
+        "Upper Changi"
+      ],
+      [
+        3,
+        "DT33",
+        "Tampines East"
+      ],
+      [
+        4,
+        "DT32",
+        "Tampines"
+      ],
+      [
+        5,
+        "DT31",
+        "Tampines West"
+      ],
+      [
+        6,
+        "DT30",
+        "Bedok Reservoir"
+      ],
+      [
+        7,
+        "DT29",
+        "Bedok North"
+      ],
+      [
+        8,
+        "DT28",
+        "Kaki Bukit"
+      ],
+      [
+        9,
+        "DT27",
+        "Ubi"
+      ],
+      [
+        10,
+        "DT26",
+        "MacPherson"
+      ],
+      [
+        11,
+        "DT25",
+        "Mattar"
+      ],
+      [
+        12,
+        "DT24",
+        "Geylang Bahru"
+      ],
+      [
+        13,
+        "DT23",
+        "Bendemeer"
+      ],
+      [
+        14,
+        "DT22",
+        "Jalan Besar"
+      ],
+      [
+        15,
+        "DT21",
+        "Bencoolen"
+      ],
+      [
+        16,
+        "DT20",
+        "Fort Canning"
+      ],
+      [
+        17,
+        "DT19",
+        "Chinatown"
+      ],
+      [
+        18,
+        "DT18",
+        "Telok Ayer"
+      ],
+      [
+        19,
+        "DT17",
+        "Downtown"
+      ],
+      [
+        20,
+        "DT16",
+        "Bayfront"
+      ],
+      [
+        21,
+        "DT15",
+        "Promenade"
+      ],
+      [
+        22,
+        "DT14",
+        "Bugis"
+      ],
+      [
+        23,
+        "DT13",
+        "Rochor"
+      ],
+      [
+        24,
+        "DT12",
+        "Little India"
+      ],
+      [
+        25,
+        "DT11",
+        "Newton"
+      ],
+      [
+        26,
+        "DT10",
+        "Stevens"
+      ],
+      [
+        27,
+        "DT9",
+        "Botanic Gardens"
+      ],
+      [
+        28,
+        "DT8",
+        "Tan Kah Kee"
+      ],
+      [
+        29,
+        "DT7",
+        "Sixth Avenue"
+      ],
+      [
+        30,
+        "DT6",
+        "King Albert Park"
+      ],
+      [
+        31,
+        "DT5",
+        "Beauty World"
+      ],
+      [
+        32,
+        "DT4",
+        "Hume"
+      ],
+      [
+        33,
+        "DT3",
+        "Hillview"
+      ],
+      [
+        34,
+        "DT2",
+        "Cashew"
+      ],
+      [
+        35,
+        "DT1",
+        "Bukit Panjang"
+      ]
+    ]
+  },
+  "EWL_1": {
+    "route_id": "EWL_1",
+    "service_no": "EWL",
+    "direction": 1,
+    "operator": "SMRT",
+    "category": "MRT",
+    "line_name": "East-West Line",
+    "origin_code": "EW1",
+    "destination_code": "EW33",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 33,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "EW1",
+        "Pasir Ris"
+      ],
+      [
+        2,
+        "EW2",
+        "Tampines"
+      ],
+      [
+        3,
+        "EW3",
+        "Simei"
+      ],
+      [
+        4,
+        "EW4",
+        "Tanah Merah"
+      ],
+      [
+        5,
+        "EW5",
+        "Bedok"
+      ],
+      [
+        6,
+        "EW6",
+        "Kembangan"
+      ],
+      [
+        7,
+        "EW7",
+        "Eunos"
+      ],
+      [
+        8,
+        "EW8",
+        "Paya Lebar"
+      ],
+      [
+        9,
+        "EW9",
+        "Aljunied"
+      ],
+      [
+        10,
+        "EW10",
+        "Kallang"
+      ],
+      [
+        11,
+        "EW11",
+        "Lavender"
+      ],
+      [
+        12,
+        "EW12",
+        "Bugis"
+      ],
+      [
+        13,
+        "EW13",
+        "City Hall"
+      ],
+      [
+        14,
+        "EW14",
+        "Raffles Place"
+      ],
+      [
+        15,
+        "EW15",
+        "Tanjong Pagar"
+      ],
+      [
+        16,
+        "EW16",
+        "Outram Park"
+      ],
+      [
+        17,
+        "EW17",
+        "Tiong Bahru"
+      ],
+      [
+        18,
+        "EW18",
+        "Redhill"
+      ],
+      [
+        19,
+        "EW19",
+        "Queenstown"
+      ],
+      [
+        20,
+        "EW20",
+        "Commonwealth"
+      ],
+      [
+        21,
+        "EW21",
+        "Buona Vista"
+      ],
+      [
+        22,
+        "EW22",
+        "Dover"
+      ],
+      [
+        23,
+        "EW23",
+        "Clementi"
+      ],
+      [
+        24,
+        "EW24",
+        "Jurong East"
+      ],
+      [
+        25,
+        "EW25",
+        "Chinese Garden"
+      ],
+      [
+        26,
+        "EW26",
+        "Lakeside"
+      ],
+      [
+        27,
+        "EW27",
+        "Boon Lay"
+      ],
+      [
+        28,
+        "EW28",
+        "Pioneer"
+      ],
+      [
+        29,
+        "EW29",
+        "Joo Koon"
+      ],
+      [
+        30,
+        "EW30",
+        "Gul Circle"
+      ],
+      [
+        31,
+        "EW31",
+        "Tuas Crescent"
+      ],
+      [
+        32,
+        "EW32",
+        "Tuas West Road"
+      ],
+      [
+        33,
+        "EW33",
+        "Tuas Link"
+      ]
+    ]
+  },
+  "EWL_2": {
+    "route_id": "EWL_2",
+    "service_no": "EWL",
+    "direction": 2,
+    "operator": "SMRT",
+    "category": "MRT",
+    "line_name": "East-West Line",
+    "origin_code": "EW33",
+    "destination_code": "EW1",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 33,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "EW33",
+        "Tuas Link"
+      ],
+      [
+        2,
+        "EW32",
+        "Tuas West Road"
+      ],
+      [
+        3,
+        "EW31",
+        "Tuas Crescent"
+      ],
+      [
+        4,
+        "EW30",
+        "Gul Circle"
+      ],
+      [
+        5,
+        "EW29",
+        "Joo Koon"
+      ],
+      [
+        6,
+        "EW28",
+        "Pioneer"
+      ],
+      [
+        7,
+        "EW27",
+        "Boon Lay"
+      ],
+      [
+        8,
+        "EW26",
+        "Lakeside"
+      ],
+      [
+        9,
+        "EW25",
+        "Chinese Garden"
+      ],
+      [
+        10,
+        "EW24",
+        "Jurong East"
+      ],
+      [
+        11,
+        "EW23",
+        "Clementi"
+      ],
+      [
+        12,
+        "EW22",
+        "Dover"
+      ],
+      [
+        13,
+        "EW21",
+        "Buona Vista"
+      ],
+      [
+        14,
+        "EW20",
+        "Commonwealth"
+      ],
+      [
+        15,
+        "EW19",
+        "Queenstown"
+      ],
+      [
+        16,
+        "EW18",
+        "Redhill"
+      ],
+      [
+        17,
+        "EW17",
+        "Tiong Bahru"
+      ],
+      [
+        18,
+        "EW16",
+        "Outram Park"
+      ],
+      [
+        19,
+        "EW15",
+        "Tanjong Pagar"
+      ],
+      [
+        20,
+        "EW14",
+        "Raffles Place"
+      ],
+      [
+        21,
+        "EW13",
+        "City Hall"
+      ],
+      [
+        22,
+        "EW12",
+        "Bugis"
+      ],
+      [
+        23,
+        "EW11",
+        "Lavender"
+      ],
+      [
+        24,
+        "EW10",
+        "Kallang"
+      ],
+      [
+        25,
+        "EW9",
+        "Aljunied"
+      ],
+      [
+        26,
+        "EW8",
+        "Paya Lebar"
+      ],
+      [
+        27,
+        "EW7",
+        "Eunos"
+      ],
+      [
+        28,
+        "EW6",
+        "Kembangan"
+      ],
+      [
+        29,
+        "EW5",
+        "Bedok"
+      ],
+      [
+        30,
+        "EW4",
+        "Tanah Merah"
+      ],
+      [
+        31,
+        "EW3",
+        "Simei"
+      ],
+      [
+        32,
+        "EW2",
+        "Tampines"
+      ],
+      [
+        33,
+        "EW1",
+        "Pasir Ris"
+      ]
+    ]
+  },
+  "NEL_1": {
+    "route_id": "NEL_1",
+    "service_no": "NEL",
+    "direction": 1,
+    "operator": "SBST",
+    "category": "MRT",
+    "line_name": "North East Line",
+    "origin_code": "NE1",
+    "destination_code": "NE18",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 17,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "NE1",
+        "HarbourFront"
+      ],
+      [
+        2,
+        "NE3",
+        "Outram Park"
+      ],
+      [
+        3,
+        "NE4",
+        "Chinatown"
+      ],
+      [
+        4,
+        "NE5",
+        "Clarke Quay"
+      ],
+      [
+        5,
+        "NE6",
+        "Dhoby Ghaut"
+      ],
+      [
+        6,
+        "NE7",
+        "Little India"
+      ],
+      [
+        7,
+        "NE8",
+        "Farrer Park"
+      ],
+      [
+        8,
+        "NE9",
+        "Boon Keng"
+      ],
+      [
+        9,
+        "NE10",
+        "Potong Pasir"
+      ],
+      [
+        10,
+        "NE11",
+        "Woodleigh"
+      ],
+      [
+        11,
+        "NE12",
+        "Serangoon"
+      ],
+      [
+        12,
+        "NE13",
+        "Kovan"
+      ],
+      [
+        13,
+        "NE14",
+        "Hougang"
+      ],
+      [
+        14,
+        "NE15",
+        "Buangkok"
+      ],
+      [
+        15,
+        "NE16",
+        "Sengkang"
+      ],
+      [
+        16,
+        "NE17",
+        "Punggol"
+      ],
+      [
+        17,
+        "NE18",
+        "Punggol Coast"
+      ]
+    ]
+  },
+  "NEL_2": {
+    "route_id": "NEL_2",
+    "service_no": "NEL",
+    "direction": 2,
+    "operator": "SBST",
+    "category": "MRT",
+    "line_name": "North East Line",
+    "origin_code": "NE18",
+    "destination_code": "NE1",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 17,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "NE18",
+        "Punggol Coast"
+      ],
+      [
+        2,
+        "NE17",
+        "Punggol"
+      ],
+      [
+        3,
+        "NE16",
+        "Sengkang"
+      ],
+      [
+        4,
+        "NE15",
+        "Buangkok"
+      ],
+      [
+        5,
+        "NE14",
+        "Hougang"
+      ],
+      [
+        6,
+        "NE13",
+        "Kovan"
+      ],
+      [
+        7,
+        "NE12",
+        "Serangoon"
+      ],
+      [
+        8,
+        "NE11",
+        "Woodleigh"
+      ],
+      [
+        9,
+        "NE10",
+        "Potong Pasir"
+      ],
+      [
+        10,
+        "NE9",
+        "Boon Keng"
+      ],
+      [
+        11,
+        "NE8",
+        "Farrer Park"
+      ],
+      [
+        12,
+        "NE7",
+        "Little India"
+      ],
+      [
+        13,
+        "NE6",
+        "Dhoby Ghaut"
+      ],
+      [
+        14,
+        "NE5",
+        "Clarke Quay"
+      ],
+      [
+        15,
+        "NE4",
+        "Chinatown"
+      ],
+      [
+        16,
+        "NE3",
+        "Outram Park"
+      ],
+      [
+        17,
+        "NE1",
+        "HarbourFront"
+      ]
+    ]
+  },
+  "NSL_1": {
+    "route_id": "NSL_1",
+    "service_no": "NSL",
+    "direction": 1,
+    "operator": "SMRT",
+    "category": "MRT",
+    "line_name": "North-South Line",
+    "origin_code": "NS1",
+    "destination_code": "NS28",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 27,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "NS1",
+        "Jurong East"
+      ],
+      [
+        2,
+        "NS2",
+        "Bukit Batok"
+      ],
+      [
+        3,
+        "NS3",
+        "Bukit Gombak"
+      ],
+      [
+        4,
+        "NS4",
+        "Choa Chu Kang"
+      ],
+      [
+        5,
+        "NS5",
+        "Yew Tee"
+      ],
+      [
+        6,
+        "NS7",
+        "Kranji"
+      ],
+      [
+        7,
+        "NS8",
+        "Marsiling"
+      ],
+      [
+        8,
+        "NS9",
+        "Woodlands"
+      ],
+      [
+        9,
+        "NS10",
+        "Admiralty"
+      ],
+      [
+        10,
+        "NS11",
+        "Sembawang"
+      ],
+      [
+        11,
+        "NS12",
+        "Canberra"
+      ],
+      [
+        12,
+        "NS13",
+        "Yishun"
+      ],
+      [
+        13,
+        "NS14",
+        "Khatib"
+      ],
+      [
+        14,
+        "NS15",
+        "Yio Chu Kang"
+      ],
+      [
+        15,
+        "NS16",
+        "Ang Mo Kio"
+      ],
+      [
+        16,
+        "NS17",
+        "Bishan"
+      ],
+      [
+        17,
+        "NS18",
+        "Braddell"
+      ],
+      [
+        18,
+        "NS19",
+        "Toa Payoh"
+      ],
+      [
+        19,
+        "NS20",
+        "Novena"
+      ],
+      [
+        20,
+        "NS21",
+        "Newton"
+      ],
+      [
+        21,
+        "NS22",
+        "Orchard"
+      ],
+      [
+        22,
+        "NS23",
+        "Somerset"
+      ],
+      [
+        23,
+        "NS24",
+        "Dhoby Ghaut"
+      ],
+      [
+        24,
+        "NS25",
+        "City Hall"
+      ],
+      [
+        25,
+        "NS26",
+        "Raffles Place"
+      ],
+      [
+        26,
+        "NS27",
+        "Marina Bay"
+      ],
+      [
+        27,
+        "NS28",
+        "Marina South Pier"
+      ]
+    ]
+  },
+  "NSL_2": {
+    "route_id": "NSL_2",
+    "service_no": "NSL",
+    "direction": 2,
+    "operator": "SMRT",
+    "category": "MRT",
+    "line_name": "North-South Line",
+    "origin_code": "NS28",
+    "destination_code": "NS1",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 27,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "NS28",
+        "Marina South Pier"
+      ],
+      [
+        2,
+        "NS27",
+        "Marina Bay"
+      ],
+      [
+        3,
+        "NS26",
+        "Raffles Place"
+      ],
+      [
+        4,
+        "NS25",
+        "City Hall"
+      ],
+      [
+        5,
+        "NS24",
+        "Dhoby Ghaut"
+      ],
+      [
+        6,
+        "NS23",
+        "Somerset"
+      ],
+      [
+        7,
+        "NS22",
+        "Orchard"
+      ],
+      [
+        8,
+        "NS21",
+        "Newton"
+      ],
+      [
+        9,
+        "NS20",
+        "Novena"
+      ],
+      [
+        10,
+        "NS19",
+        "Toa Payoh"
+      ],
+      [
+        11,
+        "NS18",
+        "Braddell"
+      ],
+      [
+        12,
+        "NS17",
+        "Bishan"
+      ],
+      [
+        13,
+        "NS16",
+        "Ang Mo Kio"
+      ],
+      [
+        14,
+        "NS15",
+        "Yio Chu Kang"
+      ],
+      [
+        15,
+        "NS14",
+        "Khatib"
+      ],
+      [
+        16,
+        "NS13",
+        "Yishun"
+      ],
+      [
+        17,
+        "NS12",
+        "Canberra"
+      ],
+      [
+        18,
+        "NS11",
+        "Sembawang"
+      ],
+      [
+        19,
+        "NS10",
+        "Admiralty"
+      ],
+      [
+        20,
+        "NS9",
+        "Woodlands"
+      ],
+      [
+        21,
+        "NS8",
+        "Marsiling"
+      ],
+      [
+        22,
+        "NS7",
+        "Kranji"
+      ],
+      [
+        23,
+        "NS5",
+        "Yew Tee"
+      ],
+      [
+        24,
+        "NS4",
+        "Choa Chu Kang"
+      ],
+      [
+        25,
+        "NS3",
+        "Bukit Gombak"
+      ],
+      [
+        26,
+        "NS2",
+        "Bukit Batok"
+      ],
+      [
+        27,
+        "NS1",
+        "Jurong East"
+      ]
+    ]
+  },
+  "TEL_1": {
+    "route_id": "TEL_1",
+    "service_no": "TEL",
+    "direction": 1,
+    "operator": "SMRT",
+    "category": "MRT",
+    "line_name": "Thomson-East Coast Line",
+    "origin_code": "TE1",
+    "destination_code": "TE29",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 27,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "TE1",
+        "Woodlands North"
+      ],
+      [
+        2,
+        "TE2",
+        "Woodlands"
+      ],
+      [
+        3,
+        "TE3",
+        "Woodlands South"
+      ],
+      [
+        4,
+        "TE4",
+        "Springleaf"
+      ],
+      [
+        5,
+        "TE5",
+        "Lentor"
+      ],
+      [
+        6,
+        "TE6",
+        "Mayflower"
+      ],
+      [
+        7,
+        "TE7",
+        "Bright Hill"
+      ],
+      [
+        8,
+        "TE8",
+        "Upper Thomson"
+      ],
+      [
+        9,
+        "TE9",
+        "Caldecott"
+      ],
+      [
+        10,
+        "TE11",
+        "Stevens"
+      ],
+      [
+        11,
+        "TE12",
+        "Napier"
+      ],
+      [
+        12,
+        "TE13",
+        "Orchard Boulevard"
+      ],
+      [
+        13,
+        "TE14",
+        "Orchard"
+      ],
+      [
+        14,
+        "TE15",
+        "Great World"
+      ],
+      [
+        15,
+        "TE16",
+        "Havelock"
+      ],
+      [
+        16,
+        "TE17",
+        "Outram Park"
+      ],
+      [
+        17,
+        "TE18",
+        "Maxwell"
+      ],
+      [
+        18,
+        "TE19",
+        "Shenton Way"
+      ],
+      [
+        19,
+        "TE20",
+        "Marina Bay"
+      ],
+      [
+        20,
+        "TE22",
+        "Gardens by the Bay"
+      ],
+      [
+        21,
+        "TE23",
+        "Tanjong Rhu"
+      ],
+      [
+        22,
+        "TE24",
+        "Katong Park"
+      ],
+      [
+        23,
+        "TE25",
+        "Tanjong Katong"
+      ],
+      [
+        24,
+        "TE26",
+        "Marine Parade"
+      ],
+      [
+        25,
+        "TE27",
+        "Marine Terrace"
+      ],
+      [
+        26,
+        "TE28",
+        "Siglap"
+      ],
+      [
+        27,
+        "TE29",
+        "Bayshore"
+      ]
+    ]
+  },
+  "TEL_2": {
+    "route_id": "TEL_2",
+    "service_no": "TEL",
+    "direction": 2,
+    "operator": "SMRT",
+    "category": "MRT",
+    "line_name": "Thomson-East Coast Line",
+    "origin_code": "TE29",
+    "destination_code": "TE1",
+    "loop_desc": "",
+    "is_loop": false,
+    "n_stops": 27,
+    "total_distance_km": null,
+    "stops_columns": [
+      "stop_sequence",
+      "station_code",
+      "station_name"
+    ],
+    "stops_matrix": [
+      [
+        1,
+        "TE29",
+        "Bayshore"
+      ],
+      [
+        2,
+        "TE28",
+        "Siglap"
+      ],
+      [
+        3,
+        "TE27",
+        "Marine Terrace"
+      ],
+      [
+        4,
+        "TE26",
+        "Marine Parade"
+      ],
+      [
+        5,
+        "TE25",
+        "Tanjong Katong"
+      ],
+      [
+        6,
+        "TE24",
+        "Katong Park"
+      ],
+      [
+        7,
+        "TE23",
+        "Tanjong Rhu"
+      ],
+      [
+        8,
+        "TE22",
+        "Gardens by the Bay"
+      ],
+      [
+        9,
+        "TE20",
+        "Marina Bay"
+      ],
+      [
+        10,
+        "TE19",
+        "Shenton Way"
+      ],
+      [
+        11,
+        "TE18",
+        "Maxwell"
+      ],
+      [
+        12,
+        "TE17",
+        "Outram Park"
+      ],
+      [
+        13,
+        "TE16",
+        "Havelock"
+      ],
+      [
+        14,
+        "TE15",
+        "Great World"
+      ],
+      [
+        15,
+        "TE14",
+        "Orchard"
+      ],
+      [
+        16,
+        "TE13",
+        "Orchard Boulevard"
+      ],
+      [
+        17,
+        "TE12",
+        "Napier"
+      ],
+      [
+        18,
+        "TE11",
+        "Stevens"
+      ],
+      [
+        19,
+        "TE9",
+        "Caldecott"
+      ],
+      [
+        20,
+        "TE8",
+        "Upper Thomson"
+      ],
+      [
+        21,
+        "TE7",
+        "Bright Hill"
+      ],
+      [
+        22,
+        "TE6",
+        "Mayflower"
+      ],
+      [
+        23,
+        "TE5",
+        "Lentor"
+      ],
+      [
+        24,
+        "TE4",
+        "Springleaf"
+      ],
+      [
+        25,
+        "TE3",
+        "Woodlands South"
+      ],
+      [
+        26,
+        "TE2",
+        "Woodlands"
+      ],
+      [
+        27,
+        "TE1",
+        "Woodlands North"
+      ]
+    ]
+  }
+}

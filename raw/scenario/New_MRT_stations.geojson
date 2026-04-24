@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "New_MRT_stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3414" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "code": "CC30", "name": "Keppel", "lon": 103.83064917121321, "lat": 1.2704140859156801 }, "geometry": { "type": "Point", "coordinates": [ 27702.915395585485385, 28101.456128145309776 ] } },
+{ "type": "Feature", "properties": { "id": null, "code": "CC31", "name": "Cantonment", "lon": 103.83706882494067, "lat": 1.273113045942889 }, "geometry": { "type": "Point", "coordinates": [ 28417.373060654812434, 28399.893300808878848 ] } },
+{ "type": "Feature", "properties": { "id": null, "code": "CC32", "name": "Prince Edward Road", "lon": 103.84739661653211, "lat": 1.2732880758617391 }, "geometry": { "type": "Point", "coordinates": [ 29566.775566151678504, 28419.251170468287455 ] } }
+]
+}

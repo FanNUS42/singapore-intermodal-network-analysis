@@ -1,0 +1,74 @@
+[
+  {
+    "Metric": "Coverage",
+    "Overall": "",
+    "CBD-bound": "",
+    "Airport-bound": ""
+  },
+  {
+    "Metric": "OD pairs (N)",
+    "Overall": 9212,
+    "CBD-bound": 7448,
+    "Airport-bound": 1764
+  },
+  {
+    "Metric": "Improved OD pairs, n (%)",
+    "Overall": "4248 (46.1%)",
+    "CBD-bound": "3677 (49.4%)",
+    "Airport-bound": "571 (32.4%)"
+  },
+  {
+    "Metric": "Unchanged OD pairs, n (%)",
+    "Overall": "4964 (53.9%)",
+    "CBD-bound": "3771 (50.6%)",
+    "Airport-bound": "1193 (67.6%)"
+  },
+  {
+    "Metric": "Magnitude of saving",
+    "Overall": "",
+    "CBD-bound": "",
+    "Airport-bound": ""
+  },
+  {
+    "Metric": "Mean saving (min)",
+    "Overall": 1.835,
+    "CBD-bound": 2.155,
+    "Airport-bound": 0.485
+  },
+  {
+    "Metric": "Median saving (min)",
+    "Overall": 0.0,
+    "CBD-bound": 0.0,
+    "Airport-bound": 0.0
+  },
+  {
+    "Metric": "90th percentile saving (min)",
+    "Overall": 6.772,
+    "CBD-bound": 7.144,
+    "Airport-bound": 1.4
+  },
+  {
+    "Metric": "Maximum saving (min)",
+    "Overall": 16.351,
+    "CBD-bound": 16.351,
+    "Airport-bound": 7.761
+  },
+  {
+    "Metric": "Mean saving among improved OD pairs (min)",
+    "Overall": 3.98,
+    "CBD-bound": 4.365,
+    "Airport-bound": 1.499
+  },
+  {
+    "Metric": "Median saving among improved OD pairs (min)",
+    "Overall": 3.4,
+    "CBD-bound": 3.909,
+    "Airport-bound": 1.4
+  },
+  {
+    "Metric": "90th percentile saving among improved OD pairs (min)",
+    "Overall": 7.8,
+    "CBD-bound": 7.8,
+    "Airport-bound": 2.102
+  }
+]

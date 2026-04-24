@@ -1,0 +1,10 @@
+[
+  {"from_node":"CC29","to_node":"CC30","time_min":2.0},
+  {"from_node":"CC30","to_node":"CC31","time_min":2.0},
+  {"from_node":"CC31","to_node":"CC32","time_min":2.0},
+  {"from_node":"CC32","to_node":"CE2","time_min":2.0},
+  {"from_node":"CC30","to_node":"CC29","time_min":2.0},
+  {"from_node":"CC31","to_node":"CC30","time_min":2.0},
+  {"from_node":"CC32","to_node":"CC31","time_min":2.0},
+  {"from_node":"CE2","to_node":"CC32","time_min":2.0}
+]

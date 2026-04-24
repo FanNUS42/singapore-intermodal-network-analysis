@@ -1,0 +1,95 @@
+{
+  "comparison": [
+    "pre_ring",
+    "post_ring"
+  ],
+  "record_count": 9212,
+  "path_changed_count": 4248,
+  "path_changed_share": 0.461138,
+  "path_changed_improved_count": 4248,
+  "path_changed_equal_time_count": 0,
+  "path_changed_worsened_count": 0,
+  "changed_using_new_ring_count": 4248,
+  "changed_using_new_ring_share": 1.0,
+  "changed_full_ring_traversal_count": 2134,
+  "changed_partial_ring_usage_count": 2114,
+  "changed_ring_usage_pattern_counts": [
+    {
+      "key": "full_CC29_to_CE2",
+      "count": 2134
+    },
+    {
+      "key": "partial_CC29_to_CC32",
+      "count": 1351
+    },
+    {
+      "key": "partial_CC29_to_CC31",
+      "count": 369
+    },
+    {
+      "key": "partial_CC30_to_CE2",
+      "count": 268
+    },
+    {
+      "key": "partial_CC30_to_CC32",
+      "count": 101
+    },
+    {
+      "key": "partial_CC30_to_CC31",
+      "count": 23
+    },
+    {
+      "key": "partial_CC30_to_CC29",
+      "count": 2
+    }
+  ],
+  "ring_overlay": {
+    "new_run_link_ids": [
+      "MRTRUN::CC29->CC30",
+      "MRTRUN::CC30->CC31",
+      "MRTRUN::CC31->CC32",
+      "MRTRUN::CC32->CE2",
+      "MRTRUN::CC30->CC29",
+      "MRTRUN::CC31->CC30",
+      "MRTRUN::CC32->CC31",
+      "MRTRUN::CE2->CC32"
+    ],
+    "new_run_pairs": [
+      "CC29->CC30",
+      "CC30->CC31",
+      "CC31->CC32",
+      "CC32->CE2",
+      "CC30->CC29",
+      "CC31->CC30",
+      "CC32->CC31",
+      "CE2->CC32"
+    ],
+    "new_station_codes": [
+      "CC30",
+      "CC31",
+      "CC32"
+    ],
+    "new_station_names": [
+      "Keppel",
+      "Cantonment",
+      "Prince Edward Road"
+    ],
+    "new_hub_ids": [
+      "MRTHUB::Keppel",
+      "MRTHUB::Cantonment",
+      "MRTHUB::Prince_Edward_Road"
+    ],
+    "full_forward": [
+      "MRTRUN::CC29->CC30",
+      "MRTRUN::CC30->CC31",
+      "MRTRUN::CC31->CC32",
+      "MRTRUN::CC32->CE2"
+    ],
+    "full_reverse": [
+      "MRTRUN::CC30->CC29",
+      "MRTRUN::CC31->CC30",
+      "MRTRUN::CC32->CC31",
+      "MRTRUN::CE2->CC32"
+    ]
+  }
+}

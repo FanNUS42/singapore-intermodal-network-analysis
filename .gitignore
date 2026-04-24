@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# Local runtime artifacts
+log/*.txt
+log/*.log
+
+# Project archives and historical backups
+archive/
+*.zip
+
+# Large generated audit outputs
+analysis/scenario/*/od/*.json
+analysis/comparison/pre_vs_post_ring_od_shortest_paths.json
+analysis/comparison/path_restructuring/od_path_restructuring.json
+model/scenario/*/graph/*.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Generated model outputs
+model/
+
+# Local run metadata and logs
+analysis/run_metadata.json
+log/
+
+# Optional acquisition cache
+cache/
+
+# Large generated analysis outputs
+analysis/scenario/*/od/*.json
+analysis/comparison/pre_vs_post_ring_od_shortest_paths.json
+analysis/comparison/path_restructuring/od_path_restructuring.json
+analysis/origin_impact/origin_dashboard_payload.json
+
+# Large scenario-level generated outputs
+analysis/scenario/
+
+# Large scenario-level generated outputs
+analysis/scenario/

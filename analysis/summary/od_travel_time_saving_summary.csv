@@ -1,0 +1,13 @@
+﻿Metric,Overall,CBD-bound,Airport-bound
+Coverage,,,
+OD pairs (N),9212,7448,1764
+"Improved OD pairs, n (%)",4248 (46.1%),3677 (49.4%),571 (32.4%)
+"Unchanged OD pairs, n (%)",4964 (53.9%),3771 (50.6%),1193 (67.6%)
+Magnitude of saving,,,
+Mean saving (min),1.835,2.155,0.485
+Median saving (min),0.0,0.0,0.0
+90th percentile saving (min),6.772,7.144,1.4
+Maximum saving (min),16.351,16.351,7.761
+Mean saving among improved OD pairs (min),3.98,4.365,1.499
+Median saving among improved OD pairs (min),3.4,3.909,1.4
+90th percentile saving among improved OD pairs (min),7.8,7.8,2.102

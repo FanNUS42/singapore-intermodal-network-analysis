@@ -1,0 +1,3483 @@
+{
+  "type": "FeatureCollection",
+  "name": "LTAMRTStation_topology_station_points_manual_rules",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Admiralty",
+        "station_code": "NS10",
+        "primary_code": "NS10",
+        "station_codes": "NS10",
+        "all_codes": "NS10",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80085749444697,
+          1.4404069329400089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Aljunied",
+        "station_code": "EW9",
+        "primary_code": "EW9",
+        "station_codes": "EW9",
+        "all_codes": "EW9",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88248476911996,
+          1.3163632078243936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Ang Mo Kio",
+        "station_code": "NS16",
+        "primary_code": "NS16",
+        "station_codes": "NS16",
+        "all_codes": "NS16",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84967573689514,
+          1.3696182336423717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "BAKAU LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90546387737824,
+          1.388013092354575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "BANGKIT LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77259057420869,
+          1.3798533467645455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bartley",
+        "station_code": "CC12",
+        "primary_code": "CC12",
+        "station_codes": "CC12",
+        "all_codes": "CC12",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87958229359455,
+          1.3428749053727125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bayfront",
+        "station_code": "CE1",
+        "primary_code": "CE1",
+        "station_codes": "CE1;DT16",
+        "all_codes": "CE1;DT16",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85920456548351,
+          1.282089309786341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bayshore",
+        "station_code": "TE29",
+        "primary_code": "TE29",
+        "station_codes": "TE29",
+        "all_codes": "TE29",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.94158330608437,
+          1.312814733378945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Beauty World",
+        "station_code": "DT5",
+        "primary_code": "DT5",
+        "station_codes": "DT5",
+        "all_codes": "DT5",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7757321737644,
+          1.3410867460890723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bedok",
+        "station_code": "EW5",
+        "primary_code": "EW5",
+        "station_codes": "EW5",
+        "all_codes": "EW5",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.92941150425963,
+          1.3239705415943168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bedok North",
+        "station_code": "DT29",
+        "primary_code": "DT29",
+        "station_codes": "DT29",
+        "all_codes": "DT29",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91851436903175,
+          1.3345218518539055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bedok Reservoir",
+        "station_code": "DT30",
+        "primary_code": "DT30",
+        "station_codes": "DT30",
+        "all_codes": "DT30",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.93318700618062,
+          1.3364513321142049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bencoolen",
+        "station_code": "DT21",
+        "primary_code": "DT21",
+        "station_codes": "DT21",
+        "all_codes": "DT21",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84989185539355,
+          1.298364571380096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bendemeer",
+        "station_code": "DT23",
+        "primary_code": "DT23",
+        "station_codes": "DT23",
+        "all_codes": "DT23",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86314661868386,
+          1.3136666153239247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bishan",
+        "station_code": "CC15",
+        "primary_code": "CC15",
+        "station_codes": "CC15;NS17",
+        "all_codes": "CC15;NS17",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8486921069671,
+          1.3508634014459961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Boon Keng",
+        "station_code": "NE9",
+        "primary_code": "NE9",
+        "station_codes": "NE9",
+        "all_codes": "NE9",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86137095529172,
+          1.3190856294870317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Boon Lay",
+        "station_code": "EW27",
+        "primary_code": "EW27",
+        "station_codes": "EW27",
+        "all_codes": "EW27",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.70571801969106,
+          1.3384759405295732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Botanic Gardens",
+        "station_code": "CC19",
+        "primary_code": "CC19",
+        "station_codes": "CC19;DT9",
+        "all_codes": "CC19;DT9",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.81544552576293,
+          1.3226096226428752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Braddell",
+        "station_code": "NS18",
+        "primary_code": "NS18",
+        "station_codes": "NS18",
+        "all_codes": "NS18",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8467589561811,
+          1.340828491675716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bras Basah",
+        "station_code": "CC2",
+        "primary_code": "CC2",
+        "station_codes": "CC2",
+        "all_codes": "CC2",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8505264190178,
+          1.2970013009425738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bright Hill",
+        "station_code": "TE7",
+        "primary_code": "TE7",
+        "station_codes": "TE7",
+        "all_codes": "TE7",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8328688965173,
+          1.363166926474025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Buangkok",
+        "station_code": "NE15",
+        "primary_code": "NE15",
+        "station_codes": "NE15",
+        "all_codes": "NE15",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8931734944837,
+          1.383029756905052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bugis",
+        "station_code": "DT14",
+        "primary_code": "DT14",
+        "station_codes": "DT14;EW12",
+        "all_codes": "DT14;EW12",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85620926697864,
+          1.3002680194792327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bukit Batok",
+        "station_code": "NS2",
+        "primary_code": "NS2",
+        "station_codes": "NS2",
+        "all_codes": "NS2",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74969897623916,
+          1.3492190249395528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bukit Gombak",
+        "station_code": "NS3",
+        "primary_code": "NS3",
+        "station_codes": "NS3",
+        "all_codes": "NS3",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.75196174761149,
+          1.3590319850204207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bukit Panjang",
+        "station_code": "DT1",
+        "primary_code": "DT1",
+        "station_codes": "DT1",
+        "all_codes": "DT1",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7621427618644,
+          1.3786217351770065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Buona Vista",
+        "station_code": "CC22",
+        "primary_code": "CC22",
+        "station_codes": "CC22;EW21",
+        "all_codes": "CC22;EW21",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79065881256486,
+          1.306929434516004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "CC9",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89292190000816,
+          1.3175124998400487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "CHENG LIM LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8938026029252,
+          1.396280094679355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "COMPASSVALE LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90066153357648,
+          1.3944308469049642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "CORAL EDGE LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91268048916862,
+          1.3938277296662271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "COVE LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906052374688,
+          1.3992135250589088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Caldecott",
+        "station_code": "CC17",
+        "primary_code": "CC17",
+        "station_codes": "CC17;TE9",
+        "all_codes": "CC17;TE9",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84003535137836,
+          1.3374869862318381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Canberra",
+        "station_code": "NS12",
+        "primary_code": "NS12",
+        "station_codes": "NS12",
+        "all_codes": "NS12",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82971217750564,
+          1.443227401411478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Cashew",
+        "station_code": "DT2",
+        "primary_code": "DT2",
+        "station_codes": "DT2",
+        "all_codes": "DT2",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76423448071098,
+          1.3698333185962925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Changi Airport",
+        "station_code": "CG2",
+        "primary_code": "CG2",
+        "station_codes": "CG2",
+        "all_codes": "CG2",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.98829061110587,
+          1.356780838532488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Chinatown",
+        "station_code": "DT19",
+        "primary_code": "DT19",
+        "station_codes": "DT19;NE4",
+        "all_codes": "DT19;NE4",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84407269085708,
+          1.2846415113506149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Chinese Garden",
+        "station_code": "EW25",
+        "primary_code": "EW25",
+        "station_codes": "EW25",
+        "all_codes": "EW25",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.73278503871254,
+          1.341995553045827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Choa Chu Kang",
+        "station_code": "NS4",
+        "primary_code": "NS4",
+        "station_codes": "NS4",
+        "all_codes": "NS4",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74445818471794,
+          1.3853280577571785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "City Hall",
+        "station_code": "EW13",
+        "primary_code": "EW13",
+        "station_codes": "EW13;NS25",
+        "all_codes": "EW13;NS25",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85244081320343,
+          1.2932059256953405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Clarke Quay",
+        "station_code": "NE5",
+        "primary_code": "NE5",
+        "station_codes": "NE5",
+        "all_codes": "NE5",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8465650175935,
+          1.2886155666760255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Clementi",
+        "station_code": "EW23",
+        "primary_code": "EW23",
+        "station_codes": "EW23",
+        "all_codes": "EW23",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76537190030689,
+          1.3147708499395088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Commonwealth",
+        "station_code": "EW20",
+        "primary_code": "EW20",
+        "station_codes": "EW20",
+        "all_codes": "EW20",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79837875141848,
+          1.3023726758900007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "DAMAI LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90870304151012,
+          1.4051653208712422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "DT18",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847799999845,
+          1.2826500003916856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "DT4",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76867360009803,
+          1.3549460000598166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Dakota",
+        "station_code": "CC8",
+        "primary_code": "CC8",
+        "station_codes": "CC8",
+        "all_codes": "CC8",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88864327651277,
+          1.308455468964854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Dhoby Ghaut",
+        "station_code": "CC1",
+        "primary_code": "CC1",
+        "station_codes": "CC1;NE6;NS24",
+        "all_codes": "CC1;NE6;NS24",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84550168866954,
+          1.2994107088527833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Dover",
+        "station_code": "EW22",
+        "primary_code": "EW22",
+        "station_codes": "EW22",
+        "all_codes": "EW22",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77838474329596,
+          1.3115543125642066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Downtown",
+        "station_code": "DT17",
+        "primary_code": "DT17",
+        "station_codes": "DT17",
+        "all_codes": "DT17",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85277105540212,
+          1.279553222177013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Esplanade",
+        "station_code": "CC3",
+        "primary_code": "CC3",
+        "station_codes": "CC3",
+        "all_codes": "CC3",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85568040869371,
+          1.293194362529821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Eunos",
+        "station_code": "EW7",
+        "primary_code": "EW7",
+        "station_codes": "EW7",
+        "all_codes": "EW7",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90289713414593,
+          1.3195365796568062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Expo",
+        "station_code": "CG1",
+        "primary_code": "CG1",
+        "station_codes": "CG1;DT35",
+        "all_codes": "CG1;DT35",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.96239435938978,
+          1.3351797416167697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "FAJAR LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77067551844488,
+          1.3844650711796456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "FARMWAY LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8892612323647,
+          1.3971669110404612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "FERNVALE LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87626165389224,
+          1.3921582676260966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Farrer Park",
+        "station_code": "NE8",
+        "primary_code": "NE8",
+        "station_codes": "NE8",
+        "all_codes": "NE8",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85433720319526,
+          1.3121610183985266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Farrer Road",
+        "station_code": "CC20",
+        "primary_code": "CC20",
+        "station_codes": "CC20",
+        "all_codes": "CC20",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80767723263273,
+          1.317522871033869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Fort Canning",
+        "station_code": "DT20",
+        "primary_code": "DT20",
+        "station_codes": "DT20",
+        "all_codes": "DT20",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84429753288106,
+          1.2926181857619832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Gardens by the Bay",
+        "station_code": "TE22",
+        "primary_code": "TE22",
+        "station_codes": "TE22",
+        "all_codes": "TE22",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86790320784318,
+          1.2791668064192445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Geylang Bahru",
+        "station_code": "DT24",
+        "primary_code": "DT24",
+        "station_codes": "DT24",
+        "all_codes": "DT24",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87167493949823,
+          1.3213354072677879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Great World",
+        "station_code": "TE15",
+        "primary_code": "TE15",
+        "station_codes": "TE15",
+        "all_codes": "TE15",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83309156886823,
+          1.294296204091656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Gul Circle",
+        "station_code": "EW30",
+        "primary_code": "EW30",
+        "station_codes": "EW30",
+        "all_codes": "EW30",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65993954468826,
+          1.3189347248509815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "HarbourFront",
+        "station_code": "CC29",
+        "primary_code": "CC29",
+        "station_codes": "CC29;NE1",
+        "all_codes": "CC29;NE1",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82149962821518,
+          1.2654106664124478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Havelock",
+        "station_code": "TE16",
+        "primary_code": "TE16",
+        "station_codes": "TE16",
+        "all_codes": "TE16",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83373395793535,
+          1.2884384467211425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Haw Par Villa",
+        "station_code": "CC25",
+        "primary_code": "CC25",
+        "station_codes": "CC25",
+        "all_codes": "CC25",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7820063970724,
+          1.2830552735417646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Hillview",
+        "station_code": "DT3",
+        "primary_code": "DT3",
+        "station_codes": "DT3",
+        "all_codes": "DT3",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76739837501947,
+          1.3622792889314002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Holland Village",
+        "station_code": "CC21",
+        "primary_code": "CC21",
+        "station_codes": "CC21",
+        "all_codes": "CC21",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79588732699557,
+          1.3110003169231763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Hougang",
+        "station_code": "NE14",
+        "primary_code": "NE14",
+        "station_codes": "NE14",
+        "all_codes": "NE14",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89246438442174,
+          1.371432176548845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "JELAPANG LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76467679284494,
+          1.3868326995309255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Jalan Besar",
+        "station_code": "DT22",
+        "primary_code": "DT22",
+        "station_codes": "DT22",
+        "all_codes": "DT22",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85527034501443,
+          1.3051785870112829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Joo Koon",
+        "station_code": "EW29",
+        "primary_code": "EW29",
+        "station_codes": "EW29",
+        "all_codes": "EW29",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.67858239304405,
+          1.3277290979482586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Jurong East",
+        "station_code": "EW24",
+        "primary_code": "EW24",
+        "station_codes": "EW24;NS1",
+        "all_codes": "EW24;NS1",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74236508406312,
+          1.3332114638253465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "KADALOOR LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91645229440469,
+          1.3996103651652896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "KANGKAR LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90221196308491,
+          1.3839198530203611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "KEAT HONG LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74922684160637,
+          1.3784649670168292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "KUPANG LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88113855300325,
+          1.3982214946162514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Kaki Bukit",
+        "station_code": "DT28",
+        "primary_code": "DT28",
+        "station_codes": "DT28",
+        "all_codes": "DT28",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90927568744428,
+          1.3351165483561398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Kallang",
+        "station_code": "EW10",
+        "primary_code": "EW10",
+        "station_codes": "EW10",
+        "all_codes": "EW10",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87165882001496,
+          1.3116611267596656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Katong Park",
+        "station_code": "TE24",
+        "primary_code": "TE24",
+        "station_codes": "TE24",
+        "all_codes": "TE24",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88608064630657,
+          1.2979590972838213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Kembangan",
+        "station_code": "EW6",
+        "primary_code": "EW6",
+        "station_codes": "EW6",
+        "all_codes": "EW6",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9129201840768,
+          1.321037934168733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Kent Ridge",
+        "station_code": "CC24",
+        "primary_code": "CC24",
+        "station_codes": "CC24",
+        "all_codes": "CC24",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78457515889197,
+          1.2934868977315543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Khatib",
+        "station_code": "NS14",
+        "primary_code": "NS14",
+        "station_codes": "NS14",
+        "all_codes": "NS14",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83293675462139,
+          1.4174038435815335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "King Albert Park",
+        "station_code": "DT6",
+        "primary_code": "DT6",
+        "station_codes": "DT6",
+        "all_codes": "DT6",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78379592249806,
+          1.3357565615926617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Kovan",
+        "station_code": "NE13",
+        "primary_code": "NE13",
+        "station_codes": "NE13",
+        "all_codes": "NE13",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88482657958616,
+          1.359980407302992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Kranji",
+        "station_code": "NS7",
+        "primary_code": "NS7",
+        "station_codes": "NS7",
+        "all_codes": "NS7",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7620526444446,
+          1.4249606810976627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "LAYAR LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88015126483126,
+          1.3920853547732004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Labrador Park",
+        "station_code": "CC27",
+        "primary_code": "CC27",
+        "station_codes": "CC27",
+        "all_codes": "CC27",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80235555366292,
+          1.2721069580543352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Lakeside",
+        "station_code": "EW26",
+        "primary_code": "EW26",
+        "station_codes": "EW26",
+        "all_codes": "EW26",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72107892304635,
+          1.3441229895834477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Lavender",
+        "station_code": "EW11",
+        "primary_code": "EW11",
+        "station_codes": "EW11",
+        "all_codes": "EW11",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86284668976303,
+          1.3073939998022037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Lentor",
+        "station_code": "TE5",
+        "primary_code": "TE5",
+        "station_codes": "TE5",
+        "all_codes": "TE5",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83655194030277,
+          1.3847385802272616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Little India",
+        "station_code": "DT12",
+        "primary_code": "DT12",
+        "station_codes": "DT12;NE7",
+        "all_codes": "DT12;NE7",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84927941390605,
+          1.3067475131053192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Lorong Chuan",
+        "station_code": "CC14",
+        "primary_code": "CC14",
+        "station_codes": "CC14",
+        "all_codes": "CC14",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86392598671051,
+          1.3515888207439537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "MARINA SOUTH MRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86221097558553,
+          1.2740203434260169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "MERIDIAN LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90891766467064,
+          1.3969013699690482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "MacPherson",
+        "station_code": "CC10",
+        "primary_code": "CC10",
+        "station_codes": "CC10;DT26",
+        "all_codes": "CC10;DT26",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88955832467485,
+          1.3258707110251868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Marina Bay",
+        "station_code": "CE2",
+        "primary_code": "CE2",
+        "station_codes": "CE2;NS27;TE20",
+        "all_codes": "CE2;NS27;TE20",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85513069011677,
+          1.275451160751061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Marina South Pier",
+        "station_code": "NS28",
+        "primary_code": "NS28",
+        "station_codes": "NS28",
+        "all_codes": "NS28",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8629548603669,
+          1.2709839133404244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Marine Parade",
+        "station_code": "TE26",
+        "primary_code": "TE26",
+        "station_codes": "TE26",
+        "all_codes": "TE26",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9068439327607,
+          1.3037772663831826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Marine Terrace",
+        "station_code": "TE27",
+        "primary_code": "TE27",
+        "station_codes": "TE27",
+        "all_codes": "TE27",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91507441029032,
+          1.3066939402377598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Marsiling",
+        "station_code": "NS8",
+        "primary_code": "NS8",
+        "station_codes": "NS8",
+        "all_codes": "NS8",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77410964960487,
+          1.4326934873645052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Marymount",
+        "station_code": "CC16",
+        "primary_code": "CC16",
+        "station_codes": "CC16",
+        "all_codes": "CC16",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83957343743887,
+          1.3484232292972218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Mattar",
+        "station_code": "DT25",
+        "primary_code": "DT25",
+        "station_codes": "DT25",
+        "all_codes": "DT25",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88324022727885,
+          1.3268574681294334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Maxwell",
+        "station_code": "TE18",
+        "primary_code": "TE18",
+        "station_codes": "TE18",
+        "all_codes": "TE18",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8439920594266,
+          1.2807150714114806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Mayflower",
+        "station_code": "TE6",
+        "primary_code": "TE6",
+        "station_codes": "TE6",
+        "all_codes": "TE6",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8367656394605,
+          1.372040419765963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Mountbatten",
+        "station_code": "CC7",
+        "primary_code": "CC7",
+        "station_codes": "CC7",
+        "all_codes": "CC7",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88292291421888,
+          1.3063993179446136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "NIBONG LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90030268112983,
+          1.4118415485297002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Napier",
+        "station_code": "TE12",
+        "primary_code": "TE12",
+        "station_codes": "TE12",
+        "all_codes": "TE12",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.81949519948067,
+          1.3066404836453698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Newton",
+        "station_code": "DT11",
+        "primary_code": "DT11",
+        "station_codes": "DT11;NS21",
+        "all_codes": "DT11;NS21",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83811425879578,
+          1.3127635093197172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Nicoll Highway",
+        "station_code": "CC5",
+        "primary_code": "CC5",
+        "station_codes": "CC5",
+        "all_codes": "CC5",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86382885147265,
+          1.2999152246963064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Novena",
+        "station_code": "NS20",
+        "primary_code": "NS20",
+        "station_codes": "NS20",
+        "all_codes": "NS20",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84386453367341,
+          1.3204953771685692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "OASIS LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91270035342811,
+          1.4023054254111869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Orchard",
+        "station_code": "NS22",
+        "primary_code": "NS22",
+        "station_codes": "NS22;TE14",
+        "all_codes": "NS22;TE14",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83185961720106,
+          1.3037892216957392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Orchard Boulevard",
+        "station_code": "TE13",
+        "primary_code": "TE13",
+        "station_codes": "TE13",
+        "all_codes": "TE13",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82376675527779,
+          1.3030436388374476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Outram Park",
+        "station_code": "EW16",
+        "primary_code": "EW16",
+        "station_codes": "EW16;NE3;TE17",
+        "all_codes": "EW16;NE3;TE17",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83907654709711,
+          1.280728280859196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "PENDING LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77132784229688,
+          1.376297117193637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "PETIR LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76679301496294,
+          1.37760322809516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "PHOENIX LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.75825247510643,
+          1.378614068213967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "PUNGGOL POINT LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9067555486285,
+          1.4167894179276284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Pasir Panjang",
+        "station_code": "CC26",
+        "primary_code": "CC26",
+        "station_codes": "CC26",
+        "all_codes": "CC26",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79203018692041,
+          1.276003232785054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Pasir Ris",
+        "station_code": "EW1",
+        "primary_code": "EW1",
+        "station_codes": "EW1",
+        "all_codes": "EW1",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.94923518349682,
+          1.3728641027162678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Paya Lebar",
+        "station_code": "CC9",
+        "primary_code": "CC9",
+        "station_codes": "CC9;EW8",
+        "all_codes": "CC9;EW8",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89220107839353,
+          1.3178251159873784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Pioneer",
+        "station_code": "EW28",
+        "primary_code": "EW28",
+        "station_codes": "EW28",
+        "all_codes": "EW28",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.69714241314384,
+          1.3375881274629595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Potong Pasir",
+        "station_code": "NE10",
+        "primary_code": "NE10",
+        "station_codes": "NE10",
+        "all_codes": "NE10",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86900119241783,
+          1.3316720679855651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Promenade",
+        "station_code": "CC4",
+        "primary_code": "CC4",
+        "station_codes": "CC4;DT15",
+        "all_codes": "CC4;DT15",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.860348993272,
+          1.2932255017455438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Punggol",
+        "station_code": "NE17",
+        "primary_code": "NE17",
+        "station_codes": "NE17",
+        "all_codes": "NE17",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90220458929751,
+          1.4048161949745837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Queenstown",
+        "station_code": "EW19",
+        "primary_code": "EW19",
+        "station_codes": "EW19",
+        "all_codes": "EW19",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80589279616889,
+          1.2948515894133084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "RANGGUNG LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89727283093592,
+          1.3841406347375078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "RENJONG LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89042367692801,
+          1.3867560500520364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "RIVIERA LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91609928452392,
+          1.3944423385440405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "RUMBIA LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90606230550871,
+          1.3913773641022749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Raffles Place",
+        "station_code": "EW14",
+        "primary_code": "EW14",
+        "station_codes": "EW14;NS26",
+        "all_codes": "EW14;NS26",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8514146762947,
+          1.2837037810256355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Redhill",
+        "station_code": "EW18",
+        "primary_code": "EW18",
+        "station_codes": "EW18",
+        "all_codes": "EW18",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8171219158162,
+          1.289428290017252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Rochor",
+        "station_code": "DT13",
+        "primary_code": "DT13",
+        "station_codes": "DT13",
+        "all_codes": "DT13",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85273967864146,
+          1.3038094417846313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "SAM KEE LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90491542547062,
+          1.4097650862417428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "SAMUDERA LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90213653486909,
+          1.4158856087872789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "SEGAR LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76940991480218,
+          1.3878115559952267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "SENJA LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76232576657173,
+          1.3828754471752023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "SOO TECK LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89721924696917,
+          1.405129912183108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "SOUTH VIEW LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74510113107972,
+          1.3803176569910298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "SUMANG LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89854640201656,
+          1.4084281664294225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Sembawang",
+        "station_code": "NS11",
+        "primary_code": "NS11",
+        "station_codes": "NS11",
+        "all_codes": "NS11",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82001511665648,
+          1.4489224371143137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Sengkang",
+        "station_code": "NE16",
+        "primary_code": "NE16",
+        "station_codes": "NE16",
+        "all_codes": "NE16",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89548936790362,
+          1.391719296776578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Serangoon",
+        "station_code": "CC13",
+        "primary_code": "CC13",
+        "station_codes": "CC13;NE12",
+        "all_codes": "CC13;NE12",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87329741577365,
+          1.3502623171668309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Shenton Way",
+        "station_code": "TE19",
+        "primary_code": "TE19",
+        "station_codes": "TE19",
+        "all_codes": "TE19",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85093581007625,
+          1.2774705811450466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Siglap",
+        "station_code": "TE28",
+        "primary_code": "TE28",
+        "station_codes": "TE28",
+        "all_codes": "TE28",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.92997897887473,
+          1.3098544576876827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Simei",
+        "station_code": "EW3",
+        "primary_code": "EW3",
+        "station_codes": "EW3",
+        "all_codes": "EW3",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.953818676297,
+          1.3426617945337078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Sixth Avenue",
+        "station_code": "DT7",
+        "primary_code": "DT7",
+        "station_codes": "DT7",
+        "all_codes": "DT7",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79670713017461,
+          1.3311508856909509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Somerset",
+        "station_code": "NS23",
+        "primary_code": "NS23",
+        "station_codes": "NS23",
+        "all_codes": "NS23",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83883951102648,
+          1.3003680916322324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Springleaf",
+        "station_code": "TE4",
+        "primary_code": "TE4",
+        "station_codes": "TE4",
+        "all_codes": "TE4",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8181585486309,
+          1.3980974104338055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Stadium",
+        "station_code": "CC6",
+        "primary_code": "CC6",
+        "station_codes": "CC6",
+        "all_codes": "CC6",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8753131111321,
+          1.302940656871825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Stevens",
+        "station_code": "DT10",
+        "primary_code": "DT10",
+        "station_codes": "DT10;TE11",
+        "all_codes": "DT10;TE11",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82578779784079,
+          1.320141727991971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "TECK LEE LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90664615971971,
+          1.412902368913235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "TECK WHYE LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.75382610234246,
+          1.3765641949369936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "THANGGAM LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87562660067039,
+          1.397195247131311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "TONGKANG LRT STATION",
+        "station_code": "",
+        "primary_code": "",
+        "station_codes": "",
+        "all_codes": "",
+        "n_code_points": 1,
+        "backfilled_from_topology": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88602323575125,
+          1.3892795844733175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Tai Seng",
+        "station_code": "CC11",
+        "primary_code": "CC11",
+        "station_codes": "CC11",
+        "all_codes": "CC11",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.88792075251713,
+          1.3352674810786016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Tampines",
+        "station_code": "DT32",
+        "primary_code": "DT32",
+        "station_codes": "DT32;EW2",
+        "all_codes": "DT32;EW2",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.94378200066225,
+          1.3543165275390319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Tampines East",
+        "station_code": "DT33",
+        "primary_code": "DT33",
+        "station_codes": "DT33",
+        "all_codes": "DT33",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.95528315107563,
+          1.3561430882801482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Tampines West",
+        "station_code": "DT31",
+        "primary_code": "DT31",
+        "station_codes": "DT31",
+        "all_codes": "DT31",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.93857262189366,
+          1.3453148925641991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Tan Kah Kee",
+        "station_code": "DT8",
+        "primary_code": "DT8",
+        "station_codes": "DT8",
+        "all_codes": "DT8",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80779999638969,
+          1.3257396139528346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Tanah Merah",
+        "station_code": "EW4",
+        "primary_code": "EW4",
+        "station_codes": "EW4",
+        "all_codes": "EW4",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.94575888475583,
+          1.32695951210127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Tanjong Katong",
+        "station_code": "TE25",
+        "primary_code": "TE25",
+        "station_codes": "TE25",
+        "all_codes": "TE25",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89748462479017,
+          1.299428004349031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Tanjong Pagar",
+        "station_code": "EW15",
+        "primary_code": "EW15",
+        "station_codes": "EW15",
+        "all_codes": "EW15",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84643317490286,
+          1.2765062559019922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Tanjong Rhu",
+        "station_code": "TE23",
+        "primary_code": "TE23",
+        "station_codes": "TE23",
+        "all_codes": "TE23",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8735402960179,
+          1.2973297672846043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Telok Ayer",
+        "station_code": "DT18",
+        "primary_code": "DT18",
+        "station_codes": "DT18",
+        "all_codes": "DT18",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84870717603917,
+          1.282211776179462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Telok Blangah",
+        "station_code": "CC28",
+        "primary_code": "CC28",
+        "station_codes": "CC28",
+        "all_codes": "CC28",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80988373092025,
+          1.2707212262114045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Tiong Bahru",
+        "station_code": "EW17",
+        "primary_code": "EW17",
+        "station_codes": "EW17",
+        "all_codes": "EW17",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82724350426975,
+          1.286060698644622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Toa Payoh",
+        "station_code": "NS19",
+        "primary_code": "NS19",
+        "station_codes": "NS19",
+        "all_codes": "NS19",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84728463789433,
+          1.3327412066251947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Tuas Crescent",
+        "station_code": "EW31",
+        "primary_code": "EW31",
+        "station_codes": "EW31",
+        "all_codes": "EW31",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.64912276518791,
+          1.3210037067554503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Tuas Link",
+        "station_code": "EW33",
+        "primary_code": "EW33",
+        "station_codes": "EW33",
+        "all_codes": "EW33",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.63704319374754,
+          1.3406834857368601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Tuas West Road",
+        "station_code": "EW32",
+        "primary_code": "EW32",
+        "station_codes": "EW32",
+        "all_codes": "EW32",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.63953752800171,
+          1.330027377185666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Ubi",
+        "station_code": "DT27",
+        "primary_code": "DT27",
+        "station_codes": "DT27",
+        "all_codes": "DT27",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89923113088656,
+          1.3298907994822522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Upper Changi",
+        "station_code": "DT34",
+        "primary_code": "DT34",
+        "station_codes": "DT34",
+        "all_codes": "DT34",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.96128514658888,
+          1.3415477120278756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Upper Thomson",
+        "station_code": "TE8",
+        "primary_code": "TE8",
+        "station_codes": "TE8",
+        "all_codes": "TE8",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83282056841342,
+          1.354527123585599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Woodlands",
+        "station_code": "NS9",
+        "primary_code": "NS9",
+        "station_codes": "NS9;TE2",
+        "all_codes": "NS9;TE2",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78762680085612,
+          1.4361869096379902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Woodlands North",
+        "station_code": "TE1",
+        "primary_code": "TE1",
+        "station_codes": "TE1",
+        "all_codes": "TE1",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78526567604953,
+          1.4484919011018793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Woodlands South",
+        "station_code": "TE3",
+        "primary_code": "TE3",
+        "station_codes": "TE3",
+        "all_codes": "TE3",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79395813934858,
+          1.426972273826002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Woodleigh",
+        "station_code": "NE11",
+        "primary_code": "NE11",
+        "station_codes": "NE11",
+        "all_codes": "NE11",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87083429229013,
+          1.3389870079378268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Yew Tee",
+        "station_code": "NS5",
+        "primary_code": "NS5",
+        "station_codes": "NS5",
+        "all_codes": "NS5",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74726709268901,
+          1.3974991327789152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Yio Chu Kang",
+        "station_code": "NS15",
+        "primary_code": "NS15",
+        "station_codes": "NS15",
+        "all_codes": "NS15",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84480893448905,
+          1.3817151830909302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Yishun",
+        "station_code": "NS13",
+        "primary_code": "NS13",
+        "station_codes": "NS13",
+        "all_codes": "NS13",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83504942390181,
+          1.4293844756294474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "one-north",
+        "station_code": "CC23",
+        "primary_code": "CC23",
+        "station_codes": "CC23",
+        "all_codes": "CC23",
+        "n_code_points": 1,
+        "backfilled_from_topology": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78754638481149,
+          1.2997940981732037
+        ]
+      }
+    }
+  ]
+}

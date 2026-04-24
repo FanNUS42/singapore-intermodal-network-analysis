@@ -1,0 +1,300 @@
+﻿element_kind,element_id,name,mode,pre_path_count_all,post_path_count_all,delta_path_count_all,abs_delta_path_count_all,pre_path_count_changed_od,post_path_count_changed_od,delta_path_count_changed_od,abs_delta_path_count_changed_od,representative_node_id,station_codes,line_names,service_nos
+mrt_station,MRTHUB::Keppel,Keppel,mrt,0,4248,4248,4248,0,4248,4248,4248,CC30,['CC30'],['Circle Line'],
+mrt_station,MRTHUB::Cantonment,Cantonment,mrt,0,4246,4246,4246,0,4246,4246,4246,CC31,['CC31'],['Circle Line'],
+mrt_station,MRTHUB::Prince_Edward_Road,Prince Edward Road,mrt,0,3854,3854,3854,0,3854,3854,3854,CC32,['CC32'],['Circle Line'],
+mrt_station,MRTHUB::Outram_Park,Outram Park,mrt,6528,3477,-3051,3051,3053,2,-3051,3051,EW16,['EW16'],['East-West Line'],
+mrt_station,MRTHUB::Marina_Bay,Marina Bay,mrt,297,2439,2142,2142,260,2402,2142,2142,CE2,['CE2'],['Circle Line Extension'],
+mrt_station,MRTHUB::HarbourFront,HarbourFront,mrt,2601,4587,1986,1986,1870,3856,1986,1986,CC29,['CC29'],['Circle Line'],
+mrt_station,MRTHUB::Telok_Blangah,Telok Blangah,mrt,2154,4125,1971,1971,1709,3680,1971,1971,CC28,['CC28'],['Circle Line'],
+mrt_station,MRTHUB::Tanjong_Pagar,Tanjong Pagar,mrt,4626,2768,-1858,1858,1860,2,-1858,1858,EW15,['EW15'],['East-West Line'],
+mrt_station,MRTHUB::Labrador_Park,Labrador Park,mrt,1713,3446,1733,1733,1352,3085,1733,1733,CC27,['CC27'],['Circle Line'],
+mrt_station,MRTHUB::Pasir_Panjang,Pasir Panjang,mrt,1269,2808,1539,1539,991,2530,1539,1539,CC26,['CC26'],['Circle Line'],
+mrt_station,MRTHUB::Buona_Vista,Buona Vista,mrt,3201,1880,-1321,1321,1323,2,-1321,1321,EW21,['EW21'],['East-West Line'],
+mrt_station,MRTHUB::one-north,one-north,mrt,2824,1584,-1240,1240,1242,2,-1240,1240,CC23,['CC23'],['Circle Line'],
+mrt_station,MRTHUB::Tiong_Bahru,Tiong Bahru,mrt,3824,2654,-1170,1170,1170,0,-1170,1170,EW17,['EW17'],['East-West Line'],
+mrt_station,MRTHUB::Redhill,Redhill,mrt,3484,2372,-1112,1112,1112,0,-1112,1112,EW18,['EW18'],['East-West Line'],
+mrt_station,MRTHUB::Queenstown,Queenstown,mrt,3065,2044,-1021,1021,1021,0,-1021,1021,EW19,['EW19'],['East-West Line'],
+mrt_station,MRTHUB::Commonwealth,Commonwealth,mrt,2817,1836,-981,981,981,0,-981,981,EW20,['EW20'],['East-West Line'],
+mrt_station,MRTHUB::Bayfront,Bayfront,mrt,777,1723,946,946,717,1663,946,946,CE1,['CE1'],['Circle Line Extension'],
+mrt_station,MRTHUB::Haw_Par_Villa,Haw Par Villa,mrt,1166,1993,827,827,698,1525,827,827,MRTHUB::Haw_Par_Villa,['CC25'],['Circle Line'],
+mrt_station,MRTHUB::Bugis,Bugis,mrt,2046,1222,-824,824,824,0,-824,824,EW12,['EW12'],['East-West Line'],
+mrt_station,MRTHUB::Chinatown,Chinatown,mrt,1103,318,-785,785,785,0,-785,785,NE4,['NE4'],['North East Line'],
+mrt_station,MRTHUB::Telok_Ayer,Telok Ayer,mrt,740,39,-701,701,701,0,-701,701,DT18,['DT18'],['Downtown Line'],
+bus_stop,14069,Former Railway Stn,bus,1416,785,-631,631,631,0,-631,631,10_2::#27::14069,,,['10']
+mrt_station,MRTHUB::Kent_Ridge,Kent Ridge,mrt,2855,2274,-581,581,1273,692,-581,581,MRTHUB::Kent_Ridge,['CC24'],['Circle Line'],
+mrt_station,MRTHUB::Raffles_Place,Raffles Place,mrt,2147,1570,-577,577,645,68,-577,577,EW14,['EW14'],['East-West Line'],
+bus_stop,14089,Opp Tg Pagar DP Blk F5,bus,1323,748,-575,575,582,7,-575,575,10_2::#26::14089,,,['10']
+mrt_station,MRTHUB::Dakota,Dakota,mrt,0,571,571,571,0,571,571,571,CC8,['CC8'],['Circle Line'],
+mrt_station,MRTHUB::Mountbatten,Mountbatten,mrt,0,571,571,571,0,571,571,571,CC7,['CC7'],['Circle Line'],
+mrt_station,MRTHUB::Nicoll_Highway,Nicoll Highway,mrt,0,571,571,571,0,571,571,571,CC5,['CC5'],['Circle Line'],
+mrt_station,MRTHUB::Stadium,Stadium,mrt,0,571,571,571,0,571,571,571,CC6,['CC6'],['Circle Line'],
+bus_stop,05641,Bef Cantonment Rd,bus,1303,756,-547,547,547,0,-547,547,10_2::#28::05641,,,['10']
+mrt_station,MRTHUB::Downtown,Downtown,mrt,741,204,-537,537,660,123,-537,537,DT17,['DT17'],['Downtown Line'],
+bus_stop,14119,Opp VivoCity,bus,1213,695,-518,518,518,0,-518,518,10_2::#24::14119,,,['10']
+mrt_station,MRTHUB::Maxwell,Maxwell,mrt,1020,508,-512,512,534,22,-512,512,TE18,['TE18'],['Thomson-East Coast Line'],
+bus_stop,14109,Keppel DP Blk 517,bus,1185,697,-488,488,495,7,-488,488,10_2::#25::14109,,,['10']
+mrt_station,MRTHUB::City_Hall,City Hall,mrt,1662,1180,-482,482,482,0,-482,482,EW13,['EW13'],['East-West Line'],
+mrt_station,MRTHUB::Aljunied,Aljunied,mrt,1632,1165,-467,467,467,0,-467,467,EW9,['EW9'],['East-West Line'],
+mrt_station,MRTHUB::Kallang,Kallang,mrt,1632,1165,-467,467,467,0,-467,467,EW10,['EW10'],['East-West Line'],
+mrt_station,MRTHUB::Lavender,Lavender,mrt,1632,1165,-467,467,467,0,-467,467,EW11,['EW11'],['East-West Line'],
+bus_stop,14129,HarbourFront Stn Exit A,bus,1046,663,-383,383,383,0,-383,383,10_2::#23::14129,,,['10']
+mrt_station,MRTHUB::Shenton_Way,Shenton Way,mrt,705,351,-354,354,520,166,-354,354,TE19,['TE19'],['Thomson-East Coast Line'],
+bus_stop,03223,Tanjong Pagar Stn Exit C,bus,588,934,346,346,217,563,346,346,BUSSTOP_IN::03223,,,"['131', '167', '186', '400', '57', '673', '675', '676', '677', '678', '679', '970']"
+mrt_station,MRTHUB::Botanic_Gardens,Botanic Gardens,mrt,384,42,-342,342,342,0,-342,342,CC19,['CC19'],['Circle Line'],
+mrt_station,MRTHUB::Farrer_Road,Farrer Road,mrt,384,42,-342,342,342,0,-342,342,CC20,['CC20'],['Circle Line'],
+mrt_station,MRTHUB::Holland_Village,Holland Village,mrt,384,42,-342,342,342,0,-342,342,CC21,['CC21'],['Circle Line'],
+mrt_station,MRTHUB::Little_India,Little India,mrt,384,42,-342,342,342,0,-342,342,DT12,['DT12'],['Downtown Line'],
+mrt_station,MRTHUB::Newton,Newton,mrt,384,42,-342,342,342,0,-342,342,DT11,['DT11'],['Downtown Line'],
+mrt_station,MRTHUB::Rochor,Rochor,mrt,384,42,-342,342,342,0,-342,342,DT13,['DT13'],['Downtown Line'],
+mrt_station,MRTHUB::Stevens,Stevens,mrt,384,42,-342,342,342,0,-342,342,DT10,['DT10'],['Downtown Line'],
+bus_stop,14139,Bef Seah Im Rd,bus,923,593,-330,330,330,0,-330,330,10_2::#22::14139,,,['10']
+mrt_station,MRTHUB::Promenade,Promenade,mrt,414,723,309,309,357,666,309,309,DT15,['DT15'],['Downtown Line'],
+bus_stop,05631,Blk 16,bus,113,421,308,308,84,392,308,308,BUSSTOP_IN::05631,,,"['121', '167', '196', '80']"
+bus_stop,10017,Aft Hosp Dr,bus,898,601,-297,297,297,0,-297,297,197_2::#26::10017,,,['197']
+bus_stop,10049,Opp Kampong Bahru Ter,bus,898,601,-297,297,297,0,-297,297,197_2::#25::10049,,,['197']
+bus_stop,14159,Hotel Faber Pk,bus,822,544,-278,278,321,43,-278,278,10_2::#21::14159,,,['10']
+bus_stop,14169,Opp Telok Blangah Stn,bus,596,318,-278,278,278,0,-278,278,10_2::#20::14169,,,['10']
+bus_stop,10391,Opp Melati Blk 2,bus,603,341,-262,262,262,0,-262,262,124_2::#16::10391,,,['124']
+bus_stop,14229,Ch of St. Teresa,bus,603,341,-262,262,262,0,-262,262,124_2::#15::14229,,,['124']
+bus_stop,03111,Aft Capital Twr,bus,1150,903,-247,247,391,144,-247,247,10_2::#30::03111,,,['10']
+bus_stop,03071,80 Robinson Rd,bus,858,625,-233,233,329,96,-233,233,10_2::#31::03071,,,['10']
+bus_stop,14179,Yeo's Bldg,bus,479,254,-225,225,225,0,-225,225,10_2::#19::14179,,,['10']
+bus_stop,03222,Hub Synergy Pt,bus,910,698,-212,212,294,82,-212,212,10_2::#29::03222,,,['10']
+bus_stop,14189,Aft Alexandra Rd,bus,427,222,-205,205,205,0,-205,205,10_2::#18::14189,,,['10']
+bus_stop,03391,Marina Bay Financial Ctr,bus,486,284,-202,202,281,79,-202,202,106_2::#6::03391,,,['106']
+bus_stop,03151,Aft Telok Ayer St,bus,743,943,200,200,253,453,200,200,131_2::#21::03151,,,['131']
+bus_stop,15149,Opp Labrador Pk Stn,bus,292,112,-180,180,180,0,-180,180,10_2::#17::15149,,,['10']
+bus_stop,15159,Mapletree Business City,bus,274,102,-172,172,172,0,-172,172,10_2::#16::15159,,,['10']
+bus_stop,05629,Opp Southpoint,bus,650,813,163,163,229,392,163,163,80_2::#8::05629,,,['80']
+bus_stop,15169,HarbourSide Bldg 2,bus,240,92,-148,148,148,0,-148,148,10_2::#15::15169,,,['10']
+bus_stop,03539,Marina Bay Stn,bus,196,343,147,147,179,326,147,147,BUSSTOP_IN::03539,,,"['106', '133', '400', '502', '502A', '513', '651', '653', '654', '655', '657', '661', '666', '667', '668', '670', '671', '672', '673', '674', '675', '676', '677', '678', '679', '97', '97e', '982E']"
+bus_stop,03381,The Sail,bus,620,474,-146,146,310,164,-146,146,106_2::#5::03381,,,['106']
+bus_stop,05519,Blk 1G,bus,537,392,-145,145,145,0,-145,145,121_1::#40::05519,,,['121']
+bus_stop,05539,Opp Police Cantonment Cplx,bus,537,392,-145,145,145,0,-145,145,BUSSTOP_IN::05539,,,"['121', '167', '196']"
+bus_stop,03241,Aft Enggor St,bus,198,342,144,144,168,312,144,144,BUSSTOP_IN::03241,,,"['651', '652', '653', '654', '655', '656', '657', '660', '660M', '661', '663', '665', '666', '667', '668', '670', '671', '672', '674']"
+bus_stop,14239,Opp Keppel DP Blk 519,bus,412,285,-127,127,127,0,-127,127,124_2::#14::14239,,,['124']
+bus_stop,15199,Opp Currency Hse,bus,200,77,-123,123,123,0,-123,123,10_2::#14::15199,,,['10']
+bus_stop,10018,Outram Pk Stn Exit 6/SGH,bus,328,213,-115,115,115,0,-115,115,197_2::#27::10018,,,['197']
+bus_stop,16049,Whitehaven,bus,416,523,107,107,215,322,107,107,10_2::#6::16049,,,['10']
+bus_stop,16059,Jamiyah Halfway Hse,bus,322,429,107,107,167,274,107,107,10_2::#5::16059,,,['10']
+mrt_station,MRTHUB::Fort_Canning,Fort Canning,mrt,135,30,-105,105,105,0,-105,105,DT20,['DT20'],['Downtown Line'],
+mrt_station,MRTHUB::Bencoolen,Bencoolen,mrt,132,28,-104,104,104,0,-104,104,DT21,['DT21'],['Downtown Line'],
+mrt_station,MRTHUB::Bendemeer,Bendemeer,mrt,132,28,-104,104,104,0,-104,104,DT23,['DT23'],['Downtown Line'],
+mrt_station,MRTHUB::Geylang_Bahru,Geylang Bahru,mrt,132,28,-104,104,104,0,-104,104,DT24,['DT24'],['Downtown Line'],
+mrt_station,MRTHUB::Jalan_Besar,Jalan Besar,mrt,132,28,-104,104,104,0,-104,104,DT22,['DT22'],['Downtown Line'],
+mrt_station,MRTHUB::Mattar,Mattar,mrt,132,28,-104,104,104,0,-104,104,DT25,['DT25'],['Downtown Line'],
+mrt_station,MRTHUB::Paya_Lebar,Paya Lebar,mrt,1632,1736,104,104,467,571,104,104,EW8,['EW8'],['East-West Line'],
+bus_stop,16039,S'pore Science Pk II,bus,429,528,99,99,223,322,99,99,10_2::#7::16039,,,['10']
+bus_stop,15209,Bef Pasir Panjang Stn,bus,175,77,-98,98,98,0,-98,98,10_2::#13::15209,,,['10']
+bus_stop,02029,Aft Esplanade Stn Exit D,bus,0,95,95,95,0,95,95,95,BUSSTOP_IN::02029,,,"['100', '107', '130', '131', '131A', '167']"
+bus_stop,11511,Alexandra Hosp,bus,453,358,-95,95,95,0,-95,95,197_2::#15::11511,,,['197']
+mrt_station,MRTHUB::Esplanade,Esplanade,mrt,0,95,95,95,0,95,95,95,CC3,['CC3'],['Circle Line'],
+bus_stop,14029,Blk 105,bus,333,240,-93,93,96,3,-93,93,124_2::#13::14029,,,['124']
+bus_stop,16029,Gloria Mansion,bus,436,528,92,92,230,322,92,92,10_2::#8::16029,,,['10']
+bus_stop,16079,Bef Pasir Panjang PO,bus,161,253,92,92,86,178,92,92,10_2::#3::16079,,,['10']
+bus_stop,16089,Aft Clementi Rd,bus,67,159,92,92,38,130,92,92,10_2::#2::16089,,,['10']
+bus_stop,16069,Heng Mui Keng Terr,bus,257,348,91,91,135,226,91,91,10_2::#4::16069,,,['10']
+bus_stop,11521,Anchorpoint,bus,405,315,-90,90,90,0,-90,90,33A_1::#14::11521,,,['33A']
+bus_stop,11531,Opp Lea Hin Hardware Fty,bus,405,315,-90,90,90,0,-90,90,33A_1::#15::11531,,,['33A']
+bus_stop,05411,Tg Pagar Plaza,bus,300,213,-87,87,218,131,-87,87,BUSSTOP_IN::05411,,,"['145', '80']"
+bus_stop,14299,Opp Blk 27,bus,342,261,-81,81,81,0,-81,81,124_2::#12::14299,,,['124']
+bus_stop,05012,Bef Pearl's Hill Terr,bus,240,160,-80,80,80,0,-80,80,124_2::#20::05012,,,['124']
+bus_stop,10331,Bef Bt Merah Ctrl,bus,313,233,-80,80,80,0,-80,80,175_1::#28::10331,,,['175']
+bus_stop,14051,Aft Telok Blangah Hts,bus,192,112,-80,80,80,0,-80,80,124_2::#10::14051,,,['124']
+mrt_station,MRTHUB::Dover,Dover,mrt,377,298,-79,79,81,2,-79,79,EW22,['EW22'],['East-West Line'],
+bus_stop,10079,Blk 201,bus,386,309,-77,77,77,0,-77,77,197_2::#22::10079,,,['197']
+bus_stop,15219,Pasir View Pk,bus,152,77,-75,75,75,0,-75,75,10_2::#12::15219,,,['10']
+bus_stop,14279,Blk 25,bus,250,176,-74,74,74,0,-74,74,124_2::#11::14279,,,['124']
+bus_stop,17161,Blk 455,bus,237,164,-73,73,73,0,-73,73,183_1::#42::17161,,,['183']
+mrt_station,MRTHUB::Clementi,Clementi,mrt,237,164,-73,73,73,0,-73,73,MRTHUB::Clementi,['EW23'],['East-West Line'],
+mrt_station,MRTHUB::Havelock,Havelock,mrt,157,84,-73,73,73,0,-73,73,MRTHUB::Havelock,['TE16'],['Thomson-East Coast Line'],
+bus_stop,10361,Cendex Ctr,bus,321,250,-71,71,71,0,-71,71,195A_1::#53::10361,,,['195A']
+bus_stop,14031,St. Theresa's Convent,bus,321,250,-71,71,71,0,-71,71,195A_1::#52::14031,,,['195A']
+bus_stop,10299,Aft Dawson Pl,bus,212,147,-65,65,65,0,-65,65,33A_1::#16::10299,,,['33A']
+bus_stop,10209,Redhill Stn,bus,173,109,-64,64,64,0,-64,64,33_2::#18::10209,,,['33']
+bus_stop,10287,Opp Cycle & Carriage,bus,173,109,-64,64,64,0,-64,64,33_2::#17::10287,,,['33']
+bus_stop,15229,Bef Sth Buona Vista Rd,bus,136,72,-64,64,64,0,-64,64,10_2::#11::15229,,,['10']
+bus_stop,10089,Blk 119,bus,312,250,-62,62,62,0,-62,62,197_2::#21::10089,,,['197']
+bus_stop,10371,Blk 129,bus,254,193,-61,61,61,0,-61,61,195A_1::#54::10371,,,['195A']
+bus_stop,17091,Aft Clementi Ave 1,bus,210,149,-61,61,61,0,-61,61,183_1::#40::17091,,,['183']
+bus_stop,17151,Blk 410,bus,210,149,-61,61,61,0,-61,61,183_1::#41::17151,,,['183']
+bus_stop,16151,The Japanese Pr Sch,bus,171,112,-59,59,59,0,-59,59,183_1::#39::16151,,,['183']
+bus_stop,18011,Aft HortPark,bus,174,115,-59,59,59,0,-59,59,BUSSTOP_IN::18011,,,"['100', '120', '166', '51', '61', '93', '963', '97']"
+bus_stop,05013,Chinatown Stn Exit C,bus,198,141,-57,57,57,0,-57,57,197_2::#28::05013,,,['197']
+bus_stop,14341,Opp Blk 59,bus,159,102,-57,57,57,0,-57,57,124_2::#9::14341,,,['124']
+bus_stop,16209,Horizon Residences,bus,119,62,-57,57,57,0,-57,57,10_2::#10::16209,,,['10']
+bus_stop,16139,Bef Kent Ridge Ter,bus,9,65,56,56,7,63,56,56,BUSSTOP_IN::16139,,,"['183', '188', '188e']"
+bus_stop,14199,Blk 118,bus,215,162,-53,53,53,0,-53,53,175_1::#27::14199,,,['175']
+bus_stop,03511,Aft Bayfront Stn Exit E,bus,290,238,-52,52,202,150,-52,52,106_2::#7::03511,,,['106']
+bus_stop,10169,Tiong Bahru Stn/Plaza,bus,239,187,-52,52,52,0,-52,52,195A_1::#55::10169,,,['195A']
+bus_stop,18019,Bef Telok Blangah Hill Pk,bus,117,168,51,51,35,86,51,51,97_1::#27::18019,,,['97']
+bus_stop,16019,Haw Par Villa Stn,bus,112,62,-50,50,50,0,-50,50,10_2::#9::16019,,,['10']
+bus_stop,16141,Tentera Diraja Mque,bus,125,75,-50,50,50,0,-50,50,183_1::#38::16141,,,['183']
+bus_stop,15189,Ascent,bus,97,54,-43,43,60,17,-43,43,92B_1::#12::15189,,,['92B']
+bus_stop,18249,DNV Technology Ctr,bus,97,54,-43,43,60,17,-43,43,92B_1::#11::18249,,,['92B']
+bus_stop,18269,DSO Natl Laboratories,bus,97,54,-43,43,60,17,-43,43,92B_1::#10::18269,,,['92B']
+bus_stop,18279,Opp Blk 85,bus,97,54,-43,43,60,17,-43,43,92B_1::#9::18279,,,['92B']
+bus_stop,18289,Opp R'ford/Normanton Pk,bus,97,54,-43,43,60,17,-43,43,BUSSTOP_IN::18289,,,"['92', '92B']"
+bus_stop,14359,Blk 50,bus,59,17,-42,42,42,0,-42,42,124_1::#45::14359,,,['124']
+bus_stop,03218,Opp MAS Bldg,bus,249,208,-41,41,202,161,-41,41,BUSSTOP_IN::03218,,,"['106', '107', '121', '130', '133', '167', '186', '196', '196A', '196e', '400', '513', '651', '652', '653', '654', '655', '656', '657', '660', '660M', '661', '663', '665', '666', '667', '668', '670', '671', '672', '70', '850E', '951E', '970']"
+bus_stop,18041,Normanton Pk,bus,132,91,-41,41,70,29,-41,41,BUSSTOP_IN::18041,,,"['14', '166', '197', '33', '963', '97', '97e']"
+bus_stop,18101,5 Sci Pk Dr,bus,132,91,-41,41,70,29,-41,41,14_1::#68::18101,,,['14']
+bus_stop,18131,Science Pk,bus,132,91,-41,41,70,29,-41,41,14_1::#67::18131,,,['14']
+bus_stop,06071,Havelock Stn Exit 2,bus,92,53,-39,39,39,0,-39,39,175_1::#33::06071,,,['175']
+bus_stop,14209,Aft Hewlett Packard,bus,125,86,-39,39,39,0,-39,39,175_1::#26::14209,,,['175']
+bus_stop,05129,Opp One Upp Pickering,bus,381,343,-38,38,38,0,-38,38,BUSSTOP_IN::05129,,,"['186', '970']"
+bus_stop,05319,OCBC Ctr,bus,424,386,-38,38,38,0,-38,38,186_2::#42::05319,,,['186']
+bus_stop,06051,Blk 55,bus,79,41,-38,38,38,0,-38,38,175_1::#32::06051,,,['175']
+bus_stop,16131,Opp Kent Ridge Ter,bus,84,46,-38,38,38,0,-38,38,BUSSTOP_IN::16131,,,"['183', '188', '33', '33A']"
+bus_stop,14331,Opp Blk 70B,bus,104,67,-37,37,37,0,-37,37,124_2::#8::14331,,,['124']
+bus_stop,03059,One Raffles Quay,bus,278,242,-36,36,38,2,-36,36,BUSSTOP_IN::03059,,,"['10', '100', '107', '10e', '130', '131', '131A', '167', '186', '196', '196A', '196e', '57', '652', '656', '660', '660M', '663', '665', '70', '850E', '951E', '970']"
+bus_stop,10149,Blk 1,bus,97,61,-36,36,36,0,-36,36,851_2::#6::10149,,,['851']
+bus_stop,10059,Opp Blk 149,bus,295,260,-35,35,35,0,-35,35,197_2::#24::10059,,,['197']
+bus_stop,10069,Opp Blk 140,bus,295,260,-35,35,35,0,-35,35,197_2::#23::10069,,,['197']
+bus_stop,16149,SDE3,bus,3,35,32,32,3,35,32,32,188_1::#34::16149,,,['188']
+bus_stop,14499,Telok Blangah Mkt/FC,bus,48,17,-31,31,31,0,-31,31,124_1::#44::14499,,,['124']
+bus_stop,03129,UIC Bldg,bus,233,203,-30,30,77,47,-30,30,BUSSTOP_IN::03129,,,"['10', '100', '106', '107', '10e', '130', '131', '131A', '133', '167', '186', '196', '196A', '196e', '400', '502', '513', '57', '651', '652', '653', '654', '655', '656', '657', '660', '660M', '661', '663', '665', '666', '667', '668', '670', '671', '672', '673', '674', '675', '676', '677', '678', '679', '70', '850E', '951E', '97', '970', '97e', '982E']"
+bus_stop,14509,Blk 92B,bus,46,17,-29,29,29,0,-29,29,BUSSTOP_IN::14509,,,['124']
+bus_stop,15059,Opp Alexandra Pt,bus,192,220,28,28,58,86,28,28,97_1::#28::15059,,,['97']
+bus_stop,14471,Blk 114,bus,51,78,27,27,11,38,27,27,BUSSTOP_IN::14471,,,"['175', '195', '195A', '57']"
+bus_stop,10181,Bef Ar-Rabitah Mque,bus,103,77,-26,26,26,0,-26,26,145_1::#44::10181,,,['145']
+bus_stop,10191,Blk 78,bus,103,77,-26,26,26,0,-26,26,145_1::#45::10191,,,['145']
+bus_stop,10341,Opp Blk 116,bus,144,118,-26,26,26,0,-26,26,145_1::#42::10341,,,['145']
+bus_stop,10351,Blk 95B,bus,144,118,-26,26,26,0,-26,26,145_1::#43::10351,,,['145']
+bus_stop,14211,ISS Intl Sch,bus,138,164,26,26,36,62,26,26,BUSSTOP_IN::14211,,,"['175', '195', '195A', '57']"
+bus_stop,14241,Opp Blk 1,bus,84,58,-26,26,26,0,-26,26,145_1::#40::14241,,,['145']
+bus_stop,76231,Opp Blk 390,bus,132,158,26,26,104,130,26,26,BUSSTOP_IN::76231,,,"['12', '12e', '17', '18', '19', '21', '29', '293', '29A', '3', '34', '34B', '37', '39', '3A', '4', '518', '59', '81', '9', '9A', '9B']"
+bus_stop,76241,Blk 497D,bus,132,158,26,26,104,130,26,26,34B_1::#18::76241,,,['34B']
+bus_stop,96051,Opp Changi Ct,bus,260,234,-26,26,26,0,-26,26,BUSSTOP_IN::96051,,,"['2', '24', '5', '5B']"
+bus_stop,96061,Opp Mera Terr P/G,bus,260,234,-26,26,26,0,-26,26,24_1::#45::96061,,,['24']
+mrt_station,MRTHUB::Bedok,Bedok,mrt,1632,1606,-26,26,467,441,-26,26,EW5,['EW5'],['East-West Line'],
+mrt_station,MRTHUB::Bedok_North,Bedok North,mrt,132,158,26,26,104,130,26,26,DT29,['DT29'],['Downtown Line'],
+mrt_station,MRTHUB::Bedok_Reservoir,Bedok Reservoir,mrt,132,158,26,26,104,130,26,26,DT30,['DT30'],['Downtown Line'],
+mrt_station,MRTHUB::Eunos,Eunos,mrt,1632,1606,-26,26,467,441,-26,26,EW7,['EW7'],['East-West Line'],
+mrt_station,MRTHUB::Expo,Expo,mrt,1632,1606,-26,26,467,441,-26,26,CG1,['CG1'],['Changi Airport Branch Line'],
+mrt_station,MRTHUB::Kaki_Bukit,Kaki Bukit,mrt,132,158,26,26,104,130,26,26,DT28,['DT28'],['Downtown Line'],
+mrt_station,MRTHUB::Kembangan,Kembangan,mrt,1632,1606,-26,26,467,441,-26,26,EW6,['EW6'],['East-West Line'],
+mrt_station,MRTHUB::MacPherson,MacPherson,mrt,132,158,26,26,104,130,26,26,DT26,['DT26'],['Downtown Line'],
+mrt_station,MRTHUB::Tampines,Tampines,mrt,132,158,26,26,104,130,26,26,DT32,['DT32'],['Downtown Line'],
+mrt_station,MRTHUB::Tampines_East,Tampines East,mrt,132,158,26,26,104,130,26,26,DT33,['DT33'],['Downtown Line'],
+mrt_station,MRTHUB::Tampines_West,Tampines West,mrt,132,158,26,26,104,130,26,26,DT31,['DT31'],['Downtown Line'],
+mrt_station,MRTHUB::Tanah_Merah,Tanah Merah,mrt,1632,1606,-26,26,467,441,-26,26,EW4,['EW4'],['Changi Airport Branch Line'],
+mrt_station,MRTHUB::Ubi,Ubi,mrt,132,158,26,26,104,130,26,26,DT27,['DT27'],['Downtown Line'],
+mrt_station,MRTHUB::Upper_Changi,Upper Changi,mrt,260,234,-26,26,26,0,-26,26,DT34,['DT34'],['Downtown Line'],
+bus_stop,11131,Queens Condo,bus,193,168,-25,25,25,0,-25,25,195A_1::#33::11131,,,['195A']
+bus_stop,05421,Aft Craig Rd,bus,26,2,-24,24,24,0,-24,24,145_2::#29::05421,,,['145']
+bus_stop,14009,HarbourFront Int,bus,58,34,-24,24,24,0,-24,24,188_1::#57::14009,,,['188']
+bus_stop,14219,Opp Blk 114,bus,79,56,-23,23,23,0,-23,23,175_1::#25::14219,,,['175']
+bus_stop,14381,Blk 109,bus,32,12,-20,20,20,0,-20,20,BUSSTOP_IN::14381,,,"['123', '123M', '131']"
+bus_stop,14379,Blk 40,bus,47,28,-19,19,19,0,-19,19,121_1::#25::14379,,,['121']
+bus_stop,18049,Opp Science Pk,bus,80,61,-19,19,19,0,-19,19,97_1::#26::18049,,,['97']
+bus_stop,14391,Opp Blk 85,bus,62,44,-18,18,18,0,-18,18,124_2::#7::14391,,,['124']
+bus_stop,14059,Bef Telok Blangah Hts,bus,145,162,17,17,26,43,17,17,145_2::#17::14059,,,['145']
+bus_stop,16159,Coll of Design & Engrg,bus,2,17,15,15,2,17,15,15,BUSSTOP_IN::16159,,,"['183', '188', '188e', '33', '96', '96A']"
+bus_stop,16189,Information Technology,bus,109,94,-15,15,49,34,-15,15,95B_1::#3::16189,,,['95B']
+bus_stop,03021,Prudential Twr,bus,358,371,13,13,104,117,13,13,131_2::#22::03021,,,['131']
+bus_stop,03031,Raffles Pl Stn Exit F,bus,230,217,-13,13,61,48,-13,13,10_2::#32::03031,,,['10']
+bus_stop,10381,Opp Blk 48,bus,33,20,-13,13,13,0,-13,13,121_1::#32::10381,,,['121']
+bus_stop,16081,Aft Palm Green Condo,bus,27,14,-13,13,13,0,-13,13,BUSSTOP_IN::16081,,,"['10', '143', '183', '188', '200', '200A', '30', '51']"
+bus_stop,05651,Opp Fuji Xerox Twrs,bus,409,397,-12,12,281,269,-12,12,80_2::#9::05651,,,['80']
+bus_stop,17011,Opp Varsity Pk,bus,27,15,-12,12,12,0,-12,12,201_1::#2::17011,,,['201']
+bus_stop,17021,Waseda S Snr High Sch,bus,27,15,-12,12,12,0,-12,12,201_1::#3::17021,,,['201']
+bus_stop,17031,Kent Ridge Sec Sch,bus,27,15,-12,12,12,0,-12,12,201_1::#5::17031,,,['201']
+bus_stop,17041,Blk 726 Clementi West Mkt,bus,27,15,-12,12,12,0,-12,12,201_1::#6::17041,,,['201']
+bus_stop,17251,Blk 460,bus,27,15,-12,12,12,0,-12,12,201_1::#7::17251,,,['201']
+bus_stop,17381,West Bay Resort Condo,bus,27,15,-12,12,12,0,-12,12,201_1::#4::17381,,,['201']
+bus_stop,14201,Blk 110,bus,17,28,11,11,3,14,11,11,BUSSTOP_IN::14201,,,"['175', '195', '195A', '57']"
+bus_stop,14369,The Interlace,bus,28,17,-11,11,11,0,-11,11,175_1::#24::14369,,,['175']
+bus_stop,14399,Blk 85,bus,13,2,-11,11,11,0,-11,11,BUSSTOP_IN::14399,,,"['124', '273']"
+bus_stop,14309,Blk 41,bus,26,16,-10,10,10,0,-10,10,121_1::#24::14309,,,['121']
+bus_stop,16009,Kent Ridge Ter,bus,57,47,-10,10,33,23,-10,10,BUSSTOP_IN::16009,,,"['10', '151', '200', '200A', '201', '33', '33A', '95', '95B']"
+bus_stop,16179,Opp Yusof Ishak Hse,bus,161,151,-10,10,70,60,-10,10,95B_1::#4::16179,,,['95B']
+bus_stop,16199,Aft Architecture Dr,bus,57,47,-10,10,27,17,-10,10,BUSSTOP_IN::16199,,,"['151', '95', '95B', '96', '96A', '96B']"
+bus_stop,18329,University Health Ctr,bus,255,245,-10,10,104,94,-10,10,95B_1::#5::18329,,,['95B']
+bus_stop,14021,The Pearl @ Mt Faber,bus,21,12,-9,9,9,0,-9,9,BUSSTOP_IN::14021,,,"['123', '123M', '124', '65', '855']"
+bus_stop,14339,Blk 70A,bus,9,0,-9,9,9,0,-9,9,BUSSTOP_IN::14339,,,"['120', '124', '273']"
+bus_stop,18239,Opp NUH,bus,301,292,-9,9,120,111,-9,9,95B_1::#8::18239,,,['95B']
+bus_stop,18309,Blk S17,bus,301,292,-9,9,120,111,-9,9,95B_1::#7::18309,,,['95B']
+bus_stop,18319,Opp University Hall,bus,301,292,-9,9,120,111,-9,9,95B_1::#6::18319,,,['95B']
+bus_stop,14281,SAFRA Mt Faber,bus,56,64,8,8,7,15,8,8,BUSSTOP_IN::14281,,,"['124', '131', '195', '195A']"
+bus_stop,14489,Blk 36 Mkt/FC,bus,22,16,-6,6,6,0,-6,6,121_1::#23::14489,,,['121']
+bus_stop,15051,Alexandra Pt,bus,11,5,-6,6,6,0,-6,6,BUSSTOP_IN::15051,,,"['100', '120', '166', '175', '51', '57', '61', '93', '963', '963e', '97', '97e']"
+bus_stop,10099,Opp Bt Merah Town Ctr,bus,48,43,-5,5,5,0,-5,5,197_2::#20::10099,,,['197']
+bus_stop,10109,Bt Merah Sec Sch,bus,48,43,-5,5,5,0,-5,5,197_2::#19::10109,,,['197']
+bus_stop,10119,Opp Pacific Tech Ctr,bus,48,43,-5,5,5,0,-5,5,197_2::#18::10119,,,['197']
+bus_stop,10139,Blk 1,bus,48,43,-5,5,5,0,-5,5,197_2::#17::10139,,,['197']
+bus_stop,10179,Tiong Bahru Pk,bus,48,43,-5,5,5,0,-5,5,120_1::#45::10179,,,['120']
+bus_stop,10189,Blk 104A CP,bus,7,2,-5,5,5,0,-5,5,120_1::#44::10189,,,['120']
+bus_stop,10199,Delta Swim Cplx,bus,7,2,-5,5,5,0,-5,5,120_1::#43::10199,,,['120']
+bus_stop,10229,Opp Harvest Mansions,bus,51,46,-5,5,5,0,-5,5,186_2::#36::10229,,,['186']
+bus_stop,10239,Blk 79,bus,51,46,-5,5,5,0,-5,5,186_2::#35::10239,,,['186']
+bus_stop,10379,Blk 25B,bus,7,2,-5,5,5,0,-5,5,120_1::#46::10379,,,['120']
+bus_stop,11019,Alexandra Ctrl,bus,48,43,-5,5,5,0,-5,5,197_2::#16::11019,,,['197']
+bus_stop,14049,Opp Blk 55,bus,203,208,5,5,38,43,5,5,145_2::#18::14049,,,['145']
+bus_stop,14319,Blk 28,bus,12,7,-5,5,5,0,-5,5,121_1::#22::14319,,,['121']
+bus_stop,16169,NUS Raffles Hall,bus,42,37,-5,5,5,0,-5,5,BUSSTOP_IN::16169,,,"['151', '96', '96A', '96B']"
+bus_stop,18109,Blk 55/Opp 5 Sci Pk Dr,bus,9,4,-5,5,5,0,-5,5,97_1::#25::18109,,,['97']
+bus_stop,05241,Opp Blk 333,bus,6,2,-4,4,4,0,-4,4,80_2::#13::05241,,,['80']
+bus_stop,05271,Opp Fairfield Meth Ch,bus,6,2,-4,4,4,0,-4,4,80_2::#12::05271,,,['80']
+bus_stop,06029,Outram Pk Stn Exit 1,bus,18,14,-4,4,4,0,-4,4,970_1::#59::06029,,,['970']
+bus_stop,06049,Bef Outram Flyover,bus,18,14,-4,4,4,0,-4,4,851_2::#7::06049,,,['851']
+bus_stop,06069,Aft Furama RiverFront,bus,12,8,-4,4,4,0,-4,4,121_1::#36::06069,,,['121']
+bus_stop,10129,Blk 121,bus,12,8,-4,4,4,0,-4,4,121_1::#29::10129,,,['121']
+bus_stop,10151,Ctrl Green Condo,bus,12,8,-4,4,4,0,-4,4,121_1::#30::10151,,,['121']
+bus_stop,10161,Opp Tiong Bahru Stn/Plaza,bus,12,8,-4,4,4,0,-4,4,121_1::#31::10161,,,['121']
+bus_stop,14291,Blk 27,bus,4,0,-4,4,4,0,-4,4,131_2::#7::14291,,,['131']
+bus_stop,14349,Blk 59,bus,4,0,-4,4,4,0,-4,4,BUSSTOP_IN::14349,,,"['120', '124', '273']"
+bus_stop,10009,Bt Merah Int,bus,97,94,-3,3,3,0,-3,3,BUSSTOP_IN::10009,,,"['123', '131', '132', '139', '153', '16', '167', '16M', '176', '198', '272', '273', '5', '57', '75', '851']"
+bus_stop,14011,Bef Mt Faber Lodge,bus,34,31,-3,3,3,0,-3,3,61_1::#51::14011,,,['61']
+bus_stop,14191,Blk 105 CP,bus,0,3,3,3,0,3,3,3,BUSSTOP_IN::14191,,,"['175', '195', '195A', '57']"
+bus_stop,14249,Blk 1,bus,68,65,-3,3,15,12,-3,3,195A_1::#49::14249,,,['195A']
+bus_stop,14271,Al-Amin Mque,bus,31,28,-3,3,6,3,-3,3,BUSSTOP_IN::14271,,,"['124', '131', '195', '195A']"
+bus_stop,18111,Fairfield Meth Pr Sch,bus,3,0,-3,3,3,0,-3,3,33A_1::#9::18111,,,['33A']
+bus_stop,19051,New Town Sec Sch,bus,3,0,-3,3,3,0,-3,3,33A_1::#5::19051,,,['33A']
+bus_stop,19061,Ayer Rajah Telecoms,bus,3,0,-3,3,3,0,-3,3,33A_1::#6::19061,,,['33A']
+bus_stop,19071,Opp ACS Independent,bus,3,0,-3,3,3,0,-3,3,33A_1::#7::19071,,,['33A']
+bus_stop,19081,Opp ACS Boarding Sch,bus,3,0,-3,3,3,0,-3,3,33A_1::#8::19081,,,['33A']
+bus_stop,06149,Havelock Stn Exit 4,bus,52,50,-2,2,2,0,-2,2,186_2::#37::06149,,,['186']
+bus_stop,06159,Opp Hotel Miramar,bus,52,50,-2,2,2,0,-2,2,186_2::#38::06159,,,['186']
+bus_stop,06169,River Pl Condo,bus,52,50,-2,2,2,0,-2,2,186_2::#39::06169,,,['186']
+bus_stop,15049,Opp Alexandra Retail Ctr,bus,228,230,2,2,84,86,2,2,97_1::#29::15049,,,['97']
+bus_stop,04321,UE Sq,bus,3,2,-1,1,1,0,-1,1,123_2::#18::04321,,,['123']
+bus_stop,05022,Aft Chinatown Stn Exit D,bus,4,3,-1,1,1,0,-1,1,124_2::#21::05022,,,['124']
+bus_stop,06081,Havelock Stn Exit 3,bus,13,12,-1,1,1,0,-1,1,123_2::#14::06081,,,['123']
+bus_stop,06189,Ctrl Sq,bus,49,48,-1,1,1,0,-1,1,186_2::#40::06189,,,['186']
+bus_stop,10249,Opp Gan Eng Seng Sec Sch,bus,39,38,-1,1,1,0,-1,1,186_2::#34::10249,,,['186']
+bus_stop,10269,Opp Delta Sports Hall,bus,39,38,-1,1,1,0,-1,1,186_2::#33::10269,,,['186']
+bus_stop,10279,Tanglin View,bus,39,38,-1,1,1,0,-1,1,186_2::#32::10279,,,['186']
+bus_stop,10289,Opp SIS Bldg,bus,39,38,-1,1,1,0,-1,1,186_2::#31::10289,,,['186']
+bus_stop,14019,Opp Mt Faber Lodge,bus,4,3,-1,1,4,3,-1,1,65_1::#64::14019,,,['65']
+bus_stop,14039,Opp St. Theresa's Convent,bus,2,3,1,1,2,3,1,1,BUSSTOP_IN::14039,,,"['121', '123', '123M', '131', '195', '195A', '65', '855']"
+bus_stop,14141,HarbourFront Stn/Vivocity,bus,4,3,-1,1,4,3,-1,1,65_1::#65::14141,,,['65']
+bus_stop,16099,Opp NUS Sports Centre,bus,95,94,-1,1,33,32,-1,1,BUSSTOP_IN::16099,,,"['197', '198', '963', '963e', '97']"
+bus_stop,18079,Opp NUH,bus,95,94,-1,1,33,32,-1,1,197_2::#12::18079,,,['197']
+bus_stop,03011,Fullerton Sq,bus,196,196,0,0,48,48,0,0,10_2::#33::03011,,,['10']
+bus_stop,03019,OUE Bayfront,bus,196,196,0,0,95,95,0,0,BUSSTOP_IN::03019,,,"['10', '100', '107', '10e', '130', '131', '131A', '167', '196', '196A', '196e', '57', '652', '656', '660', '660M', '663', '665', '70', '850E', '951E']"
+bus_stop,03041,Telok Ayer Stn Exit A,bus,196,196,0,0,103,103,0,0,186_1::#4::03041,,,['186']
+bus_stop,03217,Aft Straits Blvd,bus,196,196,0,0,169,169,0,0,BUSSTOP_IN::03217,,,"['10', '100', '10e', '131', '131A', '502', '57', '673', '674', '675', '676', '677', '678', '679', '97', '97e', '982E']"
+bus_stop,03239,Shenton Way Ter,bus,196,196,0,0,165,165,0,0,BUSSTOP_IN::03239,,,"['106', '107', '121', '130', '133', '186', '400', '70', '970']"
+bus_stop,03501,Marina Bay Sands Theatre,bus,196,196,0,0,154,154,0,0,106_2::#8::03501,,,['106']
+bus_stop,03509,Bayfront Stn Exit B/MBS,bus,196,196,0,0,190,190,0,0,BUSSTOP_IN::03509,,,"['106', '133', '502', '502A', '518', '518A', '666', '671', '672', '673', '675', '676', '677', '678', '679', '97', '97e']"
+bus_stop,03519,Bayfront Stn Exit A,bus,196,196,0,0,190,190,0,0,BUSSTOP_IN::03519,,,"['106', '133', '502', '502A', '518', '518A', '666', '671', '672', '673', '675', '676', '677', '678', '679', '97', '97e']"
+bus_stop,03529,Downtown Stn Exit E,bus,196,196,0,0,147,147,0,0,BUSSTOP_IN::03529,,,"['106', '133', '502', '502A', '513', '651', '653', '654', '655', '657', '661', '666', '667', '668', '670', '671', '672', '673', '674', '675', '676', '677', '678', '679', '97', '97e', '982E']"
+bus_stop,05199,Opp Hong Lim Cplx,bus,97,97,0,0,0,0,0,0,BUSSTOP_IN::05199,,,"['145', '166', '197', '61', '80']"
+bus_stop,05269,Maxwell Stn Exit 2,bus,196,196,0,0,6,6,0,0,145_1::#25::05269,,,['145']
+bus_stop,05419,The Amara,bus,392,392,0,0,10,10,0,0,145_1::#27::05419,,,['145']
+bus_stop,05429,Bef Craig Rd,bus,392,392,0,0,10,10,0,0,BUSSTOP_IN::05429,,,"['145', '80']"
+bus_stop,05431,Aft Tanjong Pagar Rd,bus,196,196,0,0,5,5,0,0,145_1::#28::05431,,,['145']
+bus_stop,14259,Blk 11,bus,7,7,0,0,0,0,0,0,BUSSTOP_IN::14259,,,"['121', '272']"
+bus_stop,14501,Opp Blk 91A,bus,5,5,0,0,0,0,0,0,BUSSTOP_IN::14501,,,"['120', '124']"
+bus_stop,17019,Varsity Pk,bus,3,3,0,0,0,0,0,0,BUSSTOP_IN::17019,,,"['143', '201', '30', '51', '655']"
+bus_stop,95011,Aft Aircraft Flyover,bus,196,196,0,0,65,65,0,0,24_1::#48::95011,,,['24']
+bus_stop,95019,Aft Changi Airport Ter 2,bus,588,588,0,0,189,189,0,0,110_1::#18::95019,,,['110']
+bus_stop,95029,Changi Airport Ter 1,bus,196,196,0,0,63,63,0,0,110_1::#16::95029,,,['110']
+bus_stop,95109,Changi Airport Ter 3,bus,392,392,0,0,126,126,0,0,BUSSTOP_IN::95109,,,"['110', '24', '27', '34', '34B', '36', '44', '53', '53A', '858', '858B']"
+bus_stop,95129,Changi Airport Ter 2,bus,784,784,0,0,252,252,0,0,BUSSTOP_IN::95129,,,"['110', '24', '27', '34', '34B', '36', '36A', '44', '53', '53A', '858', '858B']"
+bus_stop,95151,Airport Police Stn,bus,392,392,0,0,130,130,0,0,24_1::#47::95151,,,['24']
+bus_stop,95159,Near SATS Flight Kitchen,bus,196,196,0,0,63,63,0,0,27_1::#32::95159,,,['27']
+bus_stop,95209,Changi Airport Ter 4,bus,196,196,0,0,63,63,0,0,110_1::#19::95209,,,['110']
+mrt_station,MRTHUB::Changi_Airport,Changi Airport,mrt,1372,1372,0,0,441,441,0,0,CG2,['CG2'],['Changi Airport Branch Line'],
+mrt_station,MRTHUB::Clarke_Quay,Clarke Quay,mrt,154,154,0,0,0,0,0,0,NE5,['NE5'],['North East Line'],

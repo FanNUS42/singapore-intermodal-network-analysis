@@ -1,0 +1,58 @@
+﻿element_kind,element_id,name,mode,pre_path_count_all,post_path_count_all,delta_path_count_all,abs_delta_path_count_all,pre_path_count_changed_od,post_path_count_changed_od,delta_path_count_changed_od,abs_delta_path_count_changed_od,service_no,route_id_sample
+mrt_line,North East Line,North East Line,mrt,2476,745,-1731,1731,1733,2,-1731,1731,NEL,NEL_1
+mrt_line,Circle Line Extension,Circle Line Extension,mrt,57,1666,1609,1609,54,1663,1609,1609,CCLe,CCLe_2
+mrt_line,East-West Line,East-West Line,mrt,4972,3421,-1551,1551,1996,445,-1551,1551,EWL,EWL_2
+mrt_line,Circle Line,Circle Line,mrt,4978,6275,1297,1297,2951,4248,1297,1297,CCL,CCL_1
+mrt_line,Downtown Line,Downtown Line,mrt,1546,611,-935,935,1188,253,-935,935,DTL,DTL_2
+mrt_line,Thomson-East Coast Line,Thomson-East Coast Line,mrt,958,602,-356,356,522,166,-356,356,TEL,TEL_1
+bus_service,80,80,bus,148,434,286,286,106,392,286,286,,80_2
+bus_service,124,124,bus,606,329,-277,277,277,0,-277,277,,124_2
+bus_service,145,145,bus,935,677,-258,258,280,22,-258,258,,145_1
+bus_service,400,400,bus,24,174,150,150,14,164,150,150,,400_1
+bus_service,121,121,bus,190,83,-107,107,107,0,-107,107,,121_1
+bus_service,10,10,bus,637,541,-96,96,355,259,-96,96,,10_2
+bus_service,651,651,bus,0,96,96,96,0,96,96,96,,651_1
+bus_service,167,167,bus,284,206,-78,78,78,0,-78,78,,167_2
+bus_service,106,106,bus,410,335,-75,75,222,147,-75,75,,106_2
+bus_service,131,131,bus,443,513,70,70,147,217,70,70,,131_2
+bus_service,120,120,bus,215,147,-68,68,68,0,-68,68,,120_1
+mrt_line,North-South Line,North-South Line,mrt,0,68,68,68,0,68,68,68,NSL,NSL_2
+bus_service,97,97,bus,192,132,-60,60,60,0,-60,60,,97_1
+bus_service,183,183,bus,168,112,-56,56,56,0,-56,56,,183_1
+bus_service,188,188,bus,9,65,56,56,7,63,56,56,,188_1
+bus_service,97e,97e,bus,93,44,-49,49,49,0,-49,49,,97e_1
+bus_service,652,652,bus,0,48,48,48,0,48,48,48,,652_2
+bus_service,100,100,bus,249,292,43,43,83,126,43,43,,100_1
+bus_service,14,14,bus,167,124,-43,43,72,29,-43,43,,14_2
+bus_service,92B,92B,bus,97,54,-43,43,60,17,-43,43,,92B_1
+bus_service,123M,123M,bus,115,73,-42,42,42,0,-42,42,,123M_1
+bus_service,186,186,bus,357,398,41,41,62,103,41,41,,186_1
+bus_service,970,970,bus,178,141,-37,37,37,0,-37,37,,970_1
+bus_service,61,61,bus,73,38,-35,35,35,0,-35,35,,61_1
+bus_service,195A,195A,bus,293,264,-29,29,29,0,-29,29,,195A_1
+bus_service,24,24,bus,260,234,-26,26,26,0,-26,26,,24_1
+bus_service,34B,34B,bus,132,158,26,26,104,130,26,26,,34B_1
+mrt_line,Changi Airport Branch Line,Changi Airport Branch Line,mrt,1632,1606,-26,26,467,441,-26,26,CGL,CGL_1
+bus_service,196,196,bus,201,178,-23,23,23,0,-23,23,,196_2
+bus_service,673,673,bus,24,6,-18,18,18,0,-18,18,,673_1
+bus_service,57,57,bus,95,80,-15,15,15,0,-15,15,,57_2
+bus_service,195,195,bus,24,12,-12,12,12,0,-12,12,,195_1
+bus_service,201,201,bus,27,15,-12,12,12,0,-12,12,,201_1
+bus_service,175,175,bus,227,218,-9,9,71,62,-9,9,,175_1
+bus_service,95B,95B,bus,301,292,-9,9,120,111,-9,9,,95B_1
+bus_service,65,65,bus,23,15,-8,8,11,3,-8,8,,65_1
+bus_service,33,33,bus,24,18,-6,6,6,0,-6,6,,33_2
+bus_service,96B,96B,bus,42,37,-5,5,5,0,-5,5,,96B_1
+bus_service,33A,33A,bus,11,8,-3,3,3,0,-3,3,,33A_1
+bus_service,5,5,bus,9,6,-3,3,3,0,-3,3,,5_2
+bus_service,963,963,bus,2,0,-2,2,2,0,-2,2,,963_1
+bus_service,123,123,bus,13,12,-1,1,1,0,-1,1,,123_2
+bus_service,197,197,bus,118,119,1,1,31,32,1,1,,197_2
+bus_service,110,110,bus,588,588,0,0,189,189,0,0,,110_1
+bus_service,143,143,bus,9,9,0,0,0,0,0,0,,143_2
+bus_service,16,16,bus,35,35,0,0,0,0,0,0,,16_2
+bus_service,176,176,bus,1,1,0,0,0,0,0,0,,176_1
+bus_service,27,27,bus,196,196,0,0,63,63,0,0,,27_1
+bus_service,272,272,bus,1,1,0,0,0,0,0,0,,272_1
+bus_service,655,655,bus,3,3,0,0,0,0,0,0,,655_1
+bus_service,851,851,bus,6,6,0,0,0,0,0,0,,851_2
