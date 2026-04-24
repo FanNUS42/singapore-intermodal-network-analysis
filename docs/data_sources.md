@@ -48,7 +48,3 @@ This document records the project data inventory. It separates external or manua
 | Path restructuring outputs | `analysis/comparison/path_restructuring/` | `python main.py --scenario all --only build_path_restructuring_analysis` |
 | Network incidence tables | `analysis/comparison/network_incidence/` | `python main.py --scenario all --only build_network_incidence_delta` |
 | Report tables and figures | `analysis/summary/`, `analysis/visualization/` | `python main.py --scenario all --only build_summary_4_3 build_origin_impact_payload build_origin_spatial_visualization build_origin_impact_dashboard` |
-
-## Notes for public release
-
-Check the licensing and redistribution terms of any third-party transport datasets before publishing raw data. If redistribution is restricted, replace raw data with a documented acquisition guide and keep only derived examples or small demonstration inputs in the public repository.
