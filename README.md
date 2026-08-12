@@ -2,7 +2,7 @@
 
 This repository documents a course project on multimodal public transport network modelling and scenario analysis. The project builds and compares two Singapore public transport network scenarios to evaluate the travel-time and path-restructuring effects of the Circle Line loop closure in the southern region.
 
-The accompanying [Project Report](./Project%20Report.pdf) was submitted as part of the course project and provides the problem formulation, methodology, results, and discussion. This repository contains the corresponding implementation, data-processing workflow, and reproducible analysis pipeline.
+The accompanying [Project_Report](./Project_Report.pdf) was submitted as part of the course project and provides the problem formulation, methodology, results, and discussion. This repository contains the corresponding implementation, data-processing workflow, and reproducible analysis pipeline.
 
 ## Project scope
 
